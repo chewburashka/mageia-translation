@@ -25,6 +25,7 @@ git config --global push.default current
 может быть хватит только 
 
 git config --global push.default current
+
 ================
 
 затем, можно добавить свои файлы в проект, 
