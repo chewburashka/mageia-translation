@@ -17,6 +17,7 @@ git clone git://github.com/chewburashka/mageia-translation.git
 git checkout
 
 ================
+- - - - - - - - - -
 если при следующем шаге будут возникать ошибки, то следует выполнить команду
 
 git pull --rebase
@@ -27,6 +28,7 @@ git config --global push.default current
 git config --global push.default current
 
 ================
+- - - - - - - - - -
 
 затем, можно добавить свои файлы в проект, 
 
