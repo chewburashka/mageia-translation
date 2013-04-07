@@ -21,6 +21,7 @@ git checkout
 если при следующем шаге будут возникать ошибки, то следует выполнить команду
 
 git pull --rebase
+
 git config --global push.default current
 
 может быть хватит только 
