@@ -271,73 +271,65 @@ __Участники-учредители__ это лица, которые яв
 необходимой для достижения целей Сообщества, жилищного устава указанной недвижимости, аренды, 
 превышающей девять лет, отчуждения товаров и долгов - должны быть одобрены Общим Собранием.
 
-Article 12 - Assemblée générale ordinaire
+## Статья 12 - Обыкновенное Общее Собрание
 
-L'assemblée générale comprend les membres fondateurs, les membres actifs, les membres d'honneur 
-et les membres bienfaiteurs de l'association, à jour de leurs cotisations.
+Общее Собрание состоит из учредителей, активных участников, почётных представителей и благотворителей Сообщества, 
+со дня их вклада в Сообщество.
 
-Elle se réunit au moins une fois par an, au plus tard dans les six mois qui suivent la clôture 
-de l'exercice et chaque fois qu'elle est convoquée par le conseil d'administration, ou sur demande 
-du quart au moins de ses membres.
+Собирается не реже одного раза в год, не позднее шести месяцев, следующих за завершением финансового года, 
+и каждый раз по созыву Совета Управления или по просьбе не менее четверти его участников. 
 
-Pour toutes les assemblées, les convocations doivent être envoyées 10 jours à l'avance et indiquer 
-l'ordre du jour. Les convocations sont faites par courrier électronique et par affichage sur le site web 
-de l'association.
+Для всех собраний должен быть объявлен призыв за 10 дней с предписанием повестки дня. 
+Приглашения рассылаются по электронной почте и размещаются на веб-сайте Сообщества.
 
-L'ordre du jour est fixé par le conseil d'administration.
+Повестка для закрепляется Советом Управления.
 
-Le président préside l'assemblée générale.
+Президент представляет Общее Собрание.
 
-Le président expose la situation morale de l'association.
+Президент олицетворяет юридическую сторону Сообщества.
 
-Le trésorier rend compte de sa gestion dans un rapport financier qu'il soumet à l'approbation de l'assemblée générale.
+Казначей отчитывается о своём управлении в финансовом докладе, который он предоставляет на утверждение Общему Собранию.
 
-L'assemblée générale entend les rapports sur la gestion du conseil d'administration.
+Общее Собрание заслушивает доклады о руководстве от Совета Управления.
 
-Elle approuve les comptes de l'exercice clos, vote le budget de l'exercice suivant, 
-délibère sur les questions mises à l'ordre du jour et pourvoit, s'il y a lieu, au renouvellement 
-des membres du conseil d'administration.
+Утверждает счета за истекший финансовый год, выносит решения по бюджету на следующий финансовый год, 
+обсуждает вопросы внесённые в повестку дня и, при необходимости, принимает меры по обновлению состава Совета Управления.
 
-Toutes les délibérations de l'assemblée générale sont prises à la majorité simple des suffrages exprimés. 
-Toutefois, la révocation des membres du conseil d'administration intervient à la majorité des trois-quart.
 
-Le quorum de l'assemblée générale est fixé à 50% des membres présents et représentés. Chaque membre ne peut 
-cumuler plus de 2 pouvoirs.
+Все решения Общего Собрания принимаются простым большинством принятых голосов. 
+При этом отзыв членов Совета Управления принимают с большинством голосов не менее трёх четвертей.
 
-Le scrutin secret est de droit si un membre le demande.
+Кворум общего собрания устанавливается в 50% присутствующих и представленных участников. 
+Каждый участник обладает двумя полномочиями и не более.
 
-Les modalités du scrutin sont définies chaque année par le conseil d'administration.
+Тайное голосование правомочно при запросе всего одного участника. 
 
-Les délibérations du conseil d'administration relatives aux acquisitions, échanges et aliénations 
-d'immeubles nécessaires au but poursuivi par l'association, constitutions d'hypothèques sur lesdits 
-immeubles, baux excédant neuf années, aliénations de biens et emprunts sont soumises à l'approbation 
-de l'assemblée générale.
+Условия проведения голосования определяются каждый год Советом Управления.
 
-Les procès-verbaux des délibérations des assemblées sont consignés par le secrétaire général sur 
-un registre et signés par lui et le président.
+Обсуждения Совета Управления относящиеся к приобретению, обмену и отчуждению недвижимости, 
+необходимой для достижения целей Сообщества, жилищного устава указанной недвижимости, 
+аренды, превышающей девять лет, отчуждения товаров и долгов - представляются на одобрение Общего Собрания.
 
-## Стаття 13 - Позачергові загальні збори
+Протоколы обсуждений Собраний регистрируются главным секретарём в реестре и подписываются им и президентом
 
-Зміни до статуту може бути внесено загальними зборами за поданням ради
-директорів або принаймні 20% учасників, присутніх на загальних зборах.
+##  Article 13 - Assemblée générale extraordinaire
 
-У будь-якому разі запропоновані зміни має бути внесено до порядку денного
-наступних загальних зборів, який має бути розіслано кожному учасникові
-загальних зборів за два тижні до проведення цих зборів.
+Les statuts peuvent être modifiés par l'assemblée générale, sur proposition du conseil d'administration, 
+ou sur la proposition de 20% au moins des membres dont se compose l'assemblée générale.
 
-Проведення позачергових загальних зборів не є чинним, якщо на них присутні
-менше за одну третину учасників, які присутні на зборах особисто або через
-своїх представників.
+Dans l'un et l'autre cas, les propositions de modification sont inscrites à l'ordre du jour 
+de la prochaine assemblée générale, lequel doit être envoyé à tous les membres de l'assemblée 
+au moins 15 jours à l'avance.
 
-Якщо кворуму не досягнуто, скликаються повторні загальні збори з тим самим
-порядком денним із затримкою у принаймні два тижні.
+L'assemblée générale extraordinaire ne délibère valablement que si le tiers de ses membres sont présents ou représentés.
 
-Для визнання чинності повторних зборів ніяких обмежень на кворум не
-накладається.
+Si ce quorum n'est pas atteint, une deuxième assemblée est convoquée, sur le même ordre du jour, 
+dans un délai minimum de quinze jours.
 
-Внесення змін до статуту можливе у разі їхньої підтримки принаймні двома
-третинами від кількості присутніх учасників перших або повторно скликаних
-зборів.
+Aucun quorum n'est requis sur deuxième convocation.
+
+Les statuts ne peuvent être modifiés, sur première comme sur deuxième convocation, 
+qu'à la majorité des deux-tiers des membres présents.
 
 ## Стаття 14 - Розпуск
 
