@@ -312,51 +312,48 @@ __Участники-учредители__ это лица, которые яв
 
 Протоколы обсуждений Собраний регистрируются главным секретарём в реестре и подписываются им и президентом
 
-##  Article 13 - Assemblée générale extraordinaire
+##  Статья 13 - Чрезвычайное Общее Собрание
 
-Les statuts peuvent être modifiés par l'assemblée générale, sur proposition du conseil d'administration, 
-ou sur la proposition de 20% au moins des membres dont se compose l'assemblée générale.
+Устав может быть изменён Общим Собранием, по предложению Совета Управления или по предложению не менее 20% участников, 
+из которых состоит Общее Собрание.
 
-Dans l'un et l'autre cas, les propositions de modification sont inscrites à l'ordre du jour 
-de la prochaine assemblée générale, lequel doit être envoyé à tous les membres de l'assemblée 
-au moins 15 jours à l'avance.
+В одном и другом случае предложения об изменениях записываются в повестку дня следующего Собрания, 
+которая должна быть разослана всем членам Собрания не позднее 15 дней.
 
-L'assemblée générale extraordinaire ne délibère valablement que si le tiers de ses membres sont présents ou représentés.
+Чрезвычайное (внеочередное) Общее Собрание не считается состоявшимся 
+без присутствия или представительства трети её участников.
 
-Si ce quorum n'est pas atteint, une deuxième assemblée est convoquée, sur le même ordre du jour, 
-dans un délai minimum de quinze jours.
+Если этого кворума не достигнуто, созывается второе Собрание, с той же повесткой дня, 
+с задержкой не менее пятнадцати дней.
 
-Aucun quorum n'est requis sur deuxième convocation.
+На втором созыве такого кворума не требуется.
 
-Les statuts ne peuvent être modifiés, sur première comme sur deuxième convocation, 
-qu'à la majorité des deux-tiers des membres présents.
+Устав не может быть изменён, как на первом, так и на втором созыве, 
+без присутствия двух третей большинства членов.
 
-## Стаття 14 - Розпуск
+## Article 14 - Dissolution
 
-Крім того, загальні збори може бути скликано у вказані вище терміни для
-висловлення думки щодо розпуску асоціації.
+L'assemblée générale peut également être convoquée, selon les modalités énoncées ci-dessus, 
+à l'effet de se prononcer sur la dissolution de l'association.
 
-Рішення таких загальних зборів не є чинними, якщо у них бере участь менше за
-половину присутніх на зборах учасників або їхніх представників.
+Elle ne peut valablement délibérer que si la moitié de ses membres en exercice sont présents.
 
-Якщо кворуму не досягнуто, скликаються повторні загальні збори з тим самим
-порядком денним із затримкою у принаймні два тижні.
+Si ce quorum n'est pas atteint, l'association est à nouveau convoquée, pour le même ordre du jour, 
+à quinze jours d'intervalle.
 
-Для другого скликання зборів обмеження на кворум не накладаються.
+Pour la deuxième convocation, aucun quorum n'est exigé.
 
-Розпуск асоціації можливий у разі його підтримки принаймні двома третинами
-від кількості присутніх учасників перших або повторно скликаних зборів.
+La dissolution de l'association ne peut être votée, pour la première comme pour la deuxième convocation, 
+qu'à la majorité des deux tiers des membres présents.
 
-Загальні збори призначають одного або декількох ліквідаторів, які вирішують
-питання щодо боргів та зобов’язань асоціації.
+L'assemblée générale désigne un ou plusieurs liquidateurs chargés de la liquidation du passif et 
+de l'actif de l'association.
 
-Вони передають активи асоціації одній або декільком подібним організаціям
-або будь-якій одній організації, відповідно до власного рішення, але не
-можуть передавати ці активи жодному з членів асоціації.
+Elle attribue l'actif net à un ou plusieurs établissements analogues, ou à tout établissement 
+qu'elle décidera à l'exception des membres de l'association.
 
-Ліквідатори мають дотримуватися всіх формальних заходів з оголошення та
-оприлюднення відповідних даних, яке передбачено чинними законами та
-підзаконними актами.
+Le ou les liquidateurs sont chargés d'effectuer les formalités de déclaration et de publication 
+prévues par la loi et les règlements en vigueur.
 
 ## Стаття 15 - Ресурси
 
