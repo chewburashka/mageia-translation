@@ -271,54 +271,50 @@ __Участники-учредители__ это лица, которые яв
 необходимой для достижения целей Сообщества, жилищного устава указанной недвижимости, аренды, 
 превышающей девять лет, отчуждения товаров и долгов - должны быть одобрены Общим Собранием.
 
-## Стаття 12 - Чергові загальні збори
+Article 12 - Assemblée générale ordinaire
 
-На загальні збори скликаються учасники-засновники, активні учасники, почесні
-учасники та учасники-благодійники асоціації протягом часу оформленої ними
-передплати.
+L'assemblée générale comprend les membres fondateurs, les membres actifs, les membres d'honneur 
+et les membres bienfaiteurs de l'association, à jour de leurs cotisations.
 
-Збори скликаються принаймні раз на рік, протягом останніх шести місяців
-після завершення фінансового року та кожного разу, коли її буде скликано
-радою директорів або на запит принаймні чверті її членів.
+Elle se réunit au moins une fois par an, au plus tard dans les six mois qui suivent la clôture 
+de l'exercice et chaque fois qu'elle est convoquée par le conseil d'administration, ou sur demande 
+du quart au moins de ses membres.
 
-Запит щодо скликання зборів має бути надіслано попередньо за 10 днів і
-містити порядок денний зборів. Повідомлення щодо скликання може бути
-надіслано електронною поштою та розміщено на сайті асоціації.
+Pour toutes les assemblées, les convocations doivent être envoyées 10 jours à l'avance et indiquer 
+l'ordre du jour. Les convocations sont faites par courrier électronique et par affichage sur le site web 
+de l'association.
 
-Порядок денний визначається радою директорів.
+L'ordre du jour est fixé par le conseil d'administration.
 
-Голова виконавчого комітету є президентом загальних зборів.
+Le président préside l'assemblée générale.
 
-Голова надає загальний опис поточної ситуації у асоціації.
-      
-Скарбник надає бухгалтерську звітність, яку загальні збори мають затвердити.
+Le président expose la situation morale de l'association.
 
-Загальні збори ознайомлюються з адміністративними звітами ради директорів.
+Le trésorier rend compte de sa gestion dans un rapport financier qu'il soumet à l'approbation de l'assemblée générale.
 
-Збори затверджують фінансовий звіт щодо рахунків попереднього року,
-голосують за бюджет наступного року, обговорюють питання порядку денного та,
-якщо це потрібно, вибирають нових членів ради директорів.
+L'assemblée générale entend les rapports sur la gestion du conseil d'administration.
 
-Всі рішення загальних зборів приймаються простою більшістю голосів. Втім,
-рішення щодо звільнення членів ради директорів приймаються трьома чвертями
-тих, хто голосує.
+Elle approuve les comptes de l'exercice clos, vote le budget de l'exercice suivant, 
+délibère sur les questions mises à l'ordre du jour et pourvoit, s'il y a lieu, au renouvellement 
+des membres du conseil d'administration.
 
-Кворум загальних зборів складає 50% від кількості присутніх учасників та
-учасників, які передали право участі. Присутній учасник не може голосувати
-більше ніж двома голосами.
+Toutes les délibérations de l'assemblée générale sont prises à la majorité simple des suffrages exprimés. 
+Toutefois, la révocation des membres du conseil d'administration intervient à la majorité des trois-quart.
 
-Якщо членом асоціації поставлено таку вимогу, проводиться таємне
-голосування.
+Le quorum de l'assemblée générale est fixé à 50% des membres présents et représentés. Chaque membre ne peut 
+cumuler plus de 2 pouvoirs.
 
-Умови голосування визначаються кожного року радою директорів.
+Le scrutin secret est de droit si un membre le demande.
 
-Рішення ради директорів щодо придбання власності, обміну та переказів,
-потрібних для роботи асоціації, застави власності, оренди на строк понад 9
-років, передавання власності та кредити має бути затверджено загальними
-зборами.
+Les modalités du scrutin sont définies chaque année par le conseil d'administration.
 
-Протокол обговорень зборів ведеться секретарем у спеціальному реєстрі і
-підписується секретарем та головою.
+Les délibérations du conseil d'administration relatives aux acquisitions, échanges et aliénations 
+d'immeubles nécessaires au but poursuivi par l'association, constitutions d'hypothèques sur lesdits 
+immeubles, baux excédant neuf années, aliénations de biens et emprunts sont soumises à l'approbation 
+de l'assemblée générale.
+
+Les procès-verbaux des délibérations des assemblées sont consignés par le secrétaire général sur 
+un registre et signés par lui et le président.
 
 ## Стаття 13 - Позачергові загальні збори
 
