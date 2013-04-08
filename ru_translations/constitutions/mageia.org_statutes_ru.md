@@ -331,68 +331,54 @@ __Участники-учредители__ это лица, которые яв
 Устав не может быть изменён, как на первом, так и на втором созыве, 
 без присутствия двух третей большинства членов.
 
-## Article 14 - Dissolution
+## Статья 14 - Роспуск
 
-L'assemblée générale peut également être convoquée, selon les modalités énoncées ci-dessus, 
-à l'effet de se prononcer sur la dissolution de l'association.
+Общее собрание также может быть созвано, в соответствии с вышеуказанными условиями, 
+с целья принятия решения о роспуске Сообщества.
 
-Elle ne peut valablement délibérer que si la moitié de ses membres en exercice sont présents.
+Не может приниматься к обсуждению без присутствия половины своих участников.
 
-Si ce quorum n'est pas atteint, l'association est à nouveau convoquée, pour le même ordre du jour, 
-à quinze jours d'intervalle.
+Если кворума не состоялось, то Сообщество проводит новый созыв с той же повесткой дня с интервалом в 15 дней.
 
-Pour la deuxième convocation, aucun quorum n'est exigé.
+Для второго созыва никакого кворума не требуется.
 
-La dissolution de l'association ne peut être votée, pour la première comme pour la deuxième convocation, 
-qu'à la majorité des deux tiers des membres présents.
+Роспуск сообщества не может быть принят к голосованию, как для первого, 
+так и для второго созыва, бех присутствия двух третей своих членов.
 
-L'assemblée générale désigne un ou plusieurs liquidateurs chargés de la liquidation du passif et 
-de l'actif de l'association.
+Общее Собрание назначает одного или нескольких ликвидаторов, 
+ответственных за ликвидацию пассивов и активов Сообщества.
 
-Elle attribue l'actif net à un ou plusieurs établissements analogues, ou à tout établissement 
-qu'elle décidera à l'exception des membres de l'association.
+Ликвидация присуждает чистые активы одной или нескольком аналогичным организациям 
+или всем утверждённым организациям за исключением таковых членов Сообщества.
 
-Le ou les liquidateurs sont chargés d'effectuer les formalités de déclaration et de publication 
-prévues par la loi et les règlements en vigueur.
+Ликвидатор или ликвидаторы несут ответственность за формальные заявления и публикации, 
+предусмотренные законом и действуйющими правилами.
 
-## Стаття 15 - Ресурси
+ Article 15 - Ressources
 
-Ресурси асоціації:
+Les ressources de l'association se composent :
 
-* допомога, здебільшого фінансова, які може бути передано асоціації
-  будь-якою фізичною або юридичною особою;
-* пожертви, отримані фізичними або юридичними особами;
-* прибутки від активів;
-* внески або передплати учасників асоціації у розмірах, встановлених
-  загальними зборамии;
-* гранти від держави, місцевої або комунальної влади та державних
-  підприємств;
-* ресурси, створені на виключній основі, та, наскільки це потрібно, за
-  угодами з владними органами (збірки, лекції, зустрічі тощо, що проводяться
-  з метою отримання асоціацією прибутку);
-* продаж товарів учасникам асоціації;
+    des aides notamment financières qui peuvent être mises à la disposition de l'association par toute personne physique ou morale,
+    des dons reçus par toute personne physique ou morale,
+    du revenu de ses biens,
+    des cotisations ou inscriptions de ses membres telles que fixées par l'assemblée générale,
+    des subventions de l'Etat, des départements, des communes et des établissements publics,
+    des ressources créées à titre exceptionnel et, s'il y a lieu, avec l'agrément de l'autorité compétente ( quêtes, conférences, tombolas, réunions, spectacles, etc., autorisés au profit de l'association),
+    des ventes faites aux membres, et toutes autres ressources autorisées par la loi,
+    du produit des ventes de biens ou des prestations de services,
+    de produits de la propriété industrielle.
 
-будь-яких інших законних ресурсів;
+Article 16 - Règlement intérieur
 
-* прибутки від продажу активів або наданих послуг;
-* прибутки від промислової власності (авторських прав).
+Le conseil d'administration peut établir un règlement intérieur qui sera approuvé par l'assemblée générale.
 
-## Стаття 16 - Внутрішні правила
+Ce règlement éventuel définira les modalités d'exécution des présents statuts.
 
-Рада директорів може встановлювати внутрішні правила, які має бути
-затверджено загальними зборами.
+Il peut également fixer les divers points non prévus par les statuts.
 
-Такі правила, якщо їх запроваджено, визначатимуть угоди щодо виконання
-статуту.
+Ultérieurement le règlement intérieur pourra faire l'objet de modifications que le conseil d'administration devra soumettre à l'assemblée générale.
 
-Правила можуть вносити поправки щодо речей, які не передбачено цим статутом.
+Le règlement intérieur s'impose à tous les membres de l'association.
+Article 17 - Compétence
 
-Надалі оновлення внутрішніх правил можливе у разі затвердження змін,
-внесених радою директорів, загальними зборами асоціації.
-
-Внутрішні правила стосуються всіх учасників асоціації.
-
-## Стаття 17 - Юридична підпорядкованість
-
-Всі справи, пов’язані з діяльністю асоціації, підлягають розгляду того суду,
-за яким закріплено територію, де зареєстровано офіс асоціації.
+Le tribunal compétent pour toutes actions concernant l'association est celui du ressort dans lequel l'association a son siège.
