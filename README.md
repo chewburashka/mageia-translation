@@ -37,10 +37,18 @@ git add -A или git add add_this.file
 
 затем
 
-git commit
+git commit -m «комментарий к коммиту»
 
-внести свой комментарий к коммиту (выход из vim ctrl=C :quit или :qw)
+внести свой комментарий к коммиту можно через vim (выход из vim ctrl=C :quit) нужно тогда просто сделать git commit
+можно изменить комментарий командой
+
+git commit --amend -m "Новый комментарий"
+
 проверить, что в своём профиле на github зарегистрирован ssh_key (https://github.com/settings/ssh)
+на всякий случай проверить были ли изменения в репозитории
+
+git pull
+
 и тогда отправлять файл
 
 git push git@github.com:chewburashka/mageia-translation.git
