@@ -354,31 +354,37 @@ __Участники-учредители__ это лица, которые яв
 Ликвидатор или ликвидаторы несут ответственность за формальные заявления и публикации, 
 предусмотренные законом и действуйющими правилами.
 
- Article 15 - Ressources
+## Статья 15 - Средства
 
-Les ressources de l'association se composent :
+Средства Сообщества состоят из:
 
-    des aides notamment financières qui peuvent être mises à la disposition de l'association par toute personne physique ou morale,
-    des dons reçus par toute personne physique ou morale,
-    du revenu de ses biens,
-    des cotisations ou inscriptions de ses membres telles que fixées par l'assemblée générale,
-    des subventions de l'Etat, des départements, des communes et des établissements publics,
-    des ressources créées à titre exceptionnel et, s'il y a lieu, avec l'agrément de l'autorité compétente ( quêtes, conférences, tombolas, réunions, spectacles, etc., autorisés au profit de l'association),
-    des ventes faites aux membres, et toutes autres ressources autorisées par la loi,
-    du produit des ventes de biens ou des prestations de services,
-    de produits de la propriété industrielle.
+    помощи, в том числе финансовой, которая может быть предоставлена в распоряжжение Сообщества 
+    любыми физическими и юридическими лицами,
+	пожертвований, полученных от любых физических и юридических лиц,
+	дохода от своего имущества
+	взносов или отчислений своих членов, из числа приянтых Общим Собранием,
+	субсидий от государства, ведомств, общин и государственных учреждений,
+	ресурсов, созданных с исключительной ценностью и, если имеет место, с согласия правомочных представителей
+	( заданий, конференций, лотерей, встреч, выступления и т.д.с разрешённой выгодой для Сообщества),
+	продаж сделанных для участников и всех прочих средств, разрешённых законом,
+	выручки от реализации товаров или предоставления услуг,
+	продуктов промышленного производства.
 
-Article 16 - Règlement intérieur
 
-Le conseil d'administration peut établir un règlement intérieur qui sera approuvé par l'assemblée générale.
+## Статья 16 - Внутренние правила
 
-Ce règlement éventuel définira les modalités d'exécution des présents statuts.
+Совет Управления может устанавливать внутренние правила, которые должны быть утверждены Общим Собранием.
 
-Il peut également fixer les divers points non prévus par les statuts.
+Эти правила в итоге регулируют порядок выполнения настоящего Устава.
 
-Ultérieurement le règlement intérieur pourra faire l'objet de modifications que le conseil d'administration devra soumettre à l'assemblée générale.
+А также, возможно принятие различных вопросов, не предусмотренных Уставом.
 
-Le règlement intérieur s'impose à tous les membres de l'association.
-Article 17 - Compétence
+В дальнейшем внутренние правила могут стать объектом изменений, которые 
+Совет Управления должен представлять Общему Собранию.
 
-Le tribunal compétent pour toutes actions concernant l'association est celui du ressort dans lequel l'association a son siège.
+Внутренние правила применяются ко всем участникам Сообщества.
+
+## Статья 17 - Юрисдикция
+
+По всем вопросам, касающимся Сообщества и его полномочий, обращайтесь в соответствующий суд, 
+под юрисдикцией которого зарегистрировано Сообщество.
