@@ -6,7 +6,8 @@
 ###############################################
 Перевод страниц от Mageia 1 (НЕ В ПРИОРИТЕТЕ)
 
-http://www.mageia.org/en/1/
+#ПЕРВЕДЕНА# http://www.mageia.org/en/1/
+
 http://www.mageia.org/en/1/for-you/
 http://www.mageia.org/en/1/migrate/
 http://www.mageia.org/en/1/next/
@@ -15,6 +16,7 @@ http://www.mageia.org/en/downloads/1/
 #############################################
 
 
++++http://www.mageia.org/en/1/ -- перевел полностью  --- XliN
 +++Перевод устава mageia.org закончен. Отправляю на их svn ---- XliN
 +++ возьму 14,15                      ---- oeai
 Из конституции взял все статьи до 11  ---- XliN
