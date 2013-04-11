@@ -1,0 +1,289 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lxde-control-center 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-10 17:39+0000\n"
+"PO-Revision-Date: 2012-10-30 21:15+0300\n"
+"Last-Translator: AlexL <loginov.alex.valer@gmail.com>\n"
+"Language-Team: russian <info@edumandriva.ru>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+#: lib/lxde/lxde-control-center/control-center.py:44
+msgid "<b>Error:</b>"
+msgstr "<b>Ошибка:</b>"
+#: lib/lxde/lxde-control-center/control-center.py:47
+#: lib/lxde/lxde-control-center/control-center.py:57
+#: lib/lxde/lxde-control-center/control-center.py:414
+#: lib/lxde/lxde-control-center/control-center.py:435
+msgid "Control Center"
+msgstr "Центр управления LXDE"
+#: lib/lxde/lxde-control-center/control-center.py:67
+msgid "Item"
+msgstr "Пункт"
+#: lib/lxde/lxde-control-center/control-center.py:70
+msgid "Command"
+msgstr "Команда"
+#: lib/lxde/lxde-control-center/control-center.py:86
+msgid "Appearance"
+msgstr "Внешний вид"
+#: lib/lxde/lxde-control-center/control-center.py:87
+msgid "Network & Internet"
+msgstr "Сеть и Интернет"
+#: lib/lxde/lxde-control-center/control-center.py:88
+msgid "Programs"
+msgstr "Программы"
+#: lib/lxde/lxde-control-center/control-center.py:89
+msgid "User accounts and access control"
+msgstr "Аккаунты и доступ"
+#: lib/lxde/lxde-control-center/control-center.py:90
+msgid "User Accounts"
+msgstr "Аккаунты пользователей"
+#: lib/lxde/lxde-control-center/control-center.py:91
+msgid "System and security"
+msgstr "Система и безопасность"
+#: lib/lxde/lxde-control-center/control-center.py:92
+msgid "Hardware and sound"
+msgstr "Звук и оборудование"
+#: lib/lxde/lxde-control-center/control-center.py:93
+msgid "About"
+msgstr "Об авторах"
+#: lib/lxde/lxde-control-center/control-center.py:94
+msgid "Back to menu"
+msgstr "Назад к меню"
+#: lib/lxde/lxde-control-center/control-center.py:96
+msgid "Options"
+msgstr "Параметры"
+#: lib/lxde/lxde-control-center/control-center.py:97
+msgid "Mode"
+msgstr "Режим"
+#: lib/lxde/lxde-control-center/control-center.py:98
+msgid "Advanced mode"
+msgstr "Расширенный"
+#: lib/lxde/lxde-control-center/control-center.py:99
+msgid "Normal mode"
+msgstr "Обычный"
+#: lib/lxde/lxde-control-center/control-center.py:100
+msgid "Suggestions"
+msgstr "Рекомендации"
+#: lib/lxde/lxde-control-center/control-center.py:101
+msgid "Show suggestions"
+msgstr "Показывать рекомендации"
+#: lib/lxde/lxde-control-center/control-center.py:102
+msgid "Visual effects"
+msgstr "Визуальные эффекты"
+#: lib/lxde/lxde-control-center/control-center.py:103
+msgid "Use visual effects (slower)"
+msgstr "Использовать эффекты (медленнее)"
+#: lib/lxde/lxde-control-center/control-center.py:104
+msgid "If you want better performance (faster), disable visual effects."
+msgstr "Если вы хотите улучшить производительность, отключите эффекты"
+#: lib/lxde/lxde-control-center/control-center.py:105
+msgid "Apply"
+msgstr "Применить"
+#: lib/lxde/lxde-control-center/control-center.py:108
+msgid "Change the background and theme"
+msgstr "Смена фона и темы"
+#: lib/lxde/lxde-control-center/control-center.py:109
+msgid "Configure visual effects"
+msgstr "Настройка визуальных эффектов"
+#: lib/lxde/lxde-control-center/control-center.py:110 translations.py:8
+msgid "Adjust the screen resolution"
+msgstr "Настройка разрешения экрана"
+#: lib/lxde/lxde-control-center/control-center.py:112 translations.py:18
+msgid "Network connections"
+msgstr "Сетевые соединения"
+#: lib/lxde/lxde-control-center/control-center.py:113
+msgid "Network tools"
+msgstr "Сетевые инструменты"
+#: lib/lxde/lxde-control-center/control-center.py:114
+msgid "Network sites"
+msgstr "Сетевые сайты"
+#: lib/lxde/lxde-control-center/control-center.py:116 translations.py:11
+msgid "Add or remove user accounts"
+msgstr "Удаление и добавление аккаунтов пользователей"
+#: lib/lxde/lxde-control-center/control-center.py:117 translations.py:13
+msgid "Set up Parental Control"
+msgstr "Настройка Родительского контроля"
+#: lib/lxde/lxde-control-center/control-center.py:119
+msgid "Install drivers"
+msgstr "Установка драйверов"
+#: lib/lxde/lxde-control-center/control-center.py:120
+msgid "View devices and printers"
+msgstr "Просмотр устройств и принтеров"
+#: lib/lxde/lxde-control-center/control-center.py:122
+msgid "Status computer"
+msgstr "Состояние компьютера"
+#: lib/lxde/lxde-control-center/control-center.py:123
+msgid "Make a backup"
+msgstr "Создание резервных копий"
+#: lib/lxde/lxde-control-center/control-center.py:125 translations.py:14
+msgid "Add/Remove programs"
+msgstr "Установка/удаление программ"
+#: lib/lxde/lxde-control-center/control-center.py:126 translations.py:15
+msgid "Set favorite applications"
+msgstr "Предпочтительные приложения"
+#: lib/lxde/lxde-control-center/control-center.py:127
+msgid "Remove unused files"
+msgstr "Удаление неиспользуемых файлов"
+#: lib/lxde/lxde-control-center/control-center.py:128
+msgid "Find and fix problems"
+msgstr "Поиск и решение проблем"
+#: lib/lxde/lxde-control-center/control-center.py:130
+msgid "Edit items"
+msgstr "Редактировать элементы"
+#: lib/lxde/lxde-control-center/control-center.py:131
+msgid "Suggested programs"
+msgstr "Рекомендуемые программы"
+#: lib/lxde/lxde-control-center/control-center.py:216
+msgid "Add or remove items"
+msgstr "Добавление/удаление элементов"
+#: lib/lxde/lxde-control-center/control-center.py:217
+msgid "Resore original"
+msgstr "Восстановить умолчания"
+#: lib/lxde/lxde-control-center/control-center.py:246
+msgid "Add item"
+msgstr "Добавить элемент"
+#: lib/lxde/lxde-control-center/control-center.py:252
+#: lib/lxde/lxde-control-center/control-center.py:372
+msgid "Title: (eg Change Wallpaper)"
+msgstr "Заголовок (например, Смена обоев):"
+#: lib/lxde/lxde-control-center/control-center.py:253
+#: lib/lxde/lxde-control-center/control-center.py:373
+msgid "Command app:"
+msgstr "Команда запуска:"
+#: lib/lxde/lxde-control-center/control-center.py:254
+#: lib/lxde/lxde-control-center/control-center.py:374
+msgid "Icon file:"
+msgstr "Файл значка:"
+#: lib/lxde/lxde-control-center/control-center.py:255
+#: lib/lxde/lxde-control-center/control-center.py:375
+msgid "Options icon"
+msgstr "Параметры значка:"
+#: lib/lxde/lxde-control-center/control-center.py:281
+#, python-format
+msgid "The command <b>%s</b> already exists"
+msgstr "Команда <b>%s</b> уже задана"
+#: lib/lxde/lxde-control-center/control-center.py:285
+#, python-format
+msgid "The title <b>%s</b> already exists"
+msgstr "Заголовок <b>%s</b> уже задан"
+#: lib/lxde/lxde-control-center/control-center.py:366
+msgid "Edit item"
+msgstr "Редактировать элемент"
+#: lib/lxde/lxde-control-center/control-center.py:436
+msgid "Configuration tool for LXDE"
+msgstr "Инструмент настройки для LXDE"
+#: lib/lxde/lxde-control-center/control-center.py:494
+#, python-format
+msgid "The command <b>%s</b> is not found or not is executable"
+msgstr "Команда <b>%s</b> не найдена или не является командой запуска"
+#: translations.py:5
+msgid "Configure Openbox"
+msgstr "Настройка Openbox"
+#: translations.py:6
+msgid "Configure theme and icons"
+msgstr "Настройка темы и значков"
+#: translations.py:7
+msgid "Change the background"
+msgstr "Смена фона рабочего стола"
+#: translations.py:9
+msgid "Set up screensaver"
+msgstr "Настройка скринсейвера"
+#: translations.py:10
+msgid "Configure font"
+msgstr "Настройка шрифтов"
+#: translations.py:12
+msgid "Autenfication"
+msgstr "Аутентификация"
+#: translations.py:16
+msgid "Edit software sources"
+msgstr "Редактирование источников программ"
+#: translations.py:17
+msgid "Check system updates"
+msgstr "Проверка обновлений системы"
+#: translations.py:19
+msgid "VPN/L2TP connection setup"
+msgstr "Настройка соединения VPN PPTP/L2TP/OpenL2TP"
+#: translations.py:20
+msgid "Proxy settings"
+msgstr "Настройки proxy"
+#: translations.py:21
+msgid "Setup NFS share"
+msgstr "Настройка общего доступа по NFS"
+#: translations.py:22
+msgid "Setup Samba share"
+msgstr "Настройка общего доступа по Samba"
+#: translations.py:23
+msgid "Setup remote share connection"
+msgstr "Настройка доступа к удаленным сетевым ресурсам"
+#: translations.py:24
+msgid "Set up firewall"
+msgstr "Настройка файервола"
+#: translations.py:25 translations.py:26
+msgid "Configure hostname"
+msgstr "Настройка имени хоста"
+#: translations.py:27
+msgid "Configure Internet share"
+msgstr "Настройка общего доступа к Интернету"
+#: translations.py:28
+msgid "Find and setup you hardware"
+msgstr "Поиск и настройка оборудования"
+#: translations.py:29
+msgid "Setup you videocard and monitor"
+msgstr "Настройка видеокарты и монитора"
+#: translations.py:30
+msgid "Setup you keyboard"
+msgstr "Настройка клавиатуры"
+#: translations.py:31
+msgid "Setup you mouse"
+msgstr "Настройка мыши"
+#: translations.py:32
+msgid "Setup printers"
+msgstr "Настройка принтера"
+#: translations.py:33
+msgid "Setup scanner"
+msgstr "Настройка сканера"
+#: translations.py:34
+msgid "Configure keyboard, mouse and touchpad"
+msgstr "Настройка клавиатуры, мыши и тачпада"
+#: translations.py:35
+msgid "Configure soundcard"
+msgstr "Настройка звуковой карты"
+#: translations.py:36
+msgid "Configure sound"
+msgstr "Настройка звука"
+#: translations.py:37
+msgid "Setup UPS"
+msgstr "Настройка ИБП"
+#: translations.py:38
+msgid "Configure system services"
+msgstr "Управление системными службами"
+#: translations.py:39
+msgid "Configure locale"
+msgstr "Языковые параметры"
+#: translations.py:40
+msgid "Configure keyboard layout"
+msgstr "Настройка раскладок клавиатуры"
+#: translations.py:41
+msgid "Configure date and time"
+msgstr "Настройка даты и времени"
+#: translations.py:42
+msgid "Configure system boot"
+msgstr "Настройка загрузки системы"
+#: translations.py:43
+msgid "See system logs"
+msgstr "Показ системных событий"
+#: translations.py:44
+msgid "Configure system security"
+msgstr "Настройка безопасности системы"
+#: translations.py:45
+msgid "Manage you disks"
+msgstr "Управление дисками"
