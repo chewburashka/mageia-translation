@@ -139,7 +139,7 @@ msgstr ""
 "В каждой установленной системе <application>Mageia</application> следует "
 "определить пароль суперпользователя или администратора. Такой пароль в Linux "
 "обычно называется <emphasis>пароль root</emphasis>. При вводе пароля цвет "
-"отметки щита меняться с красного на жёлтый, а затем на зелёный в зависимости "
+"отметки щита должен меняться с красного на жёлтый, а затем на зелёный в зависимости "
 "от сложности пароля. Зелёный цвет соответствует достаточно сложным паролям. "
 "Вам также следует повторить ввод пароля в поле расположенном ниже, чтобы "
 "удостовериться, что пароль был введён без ошибок."
@@ -815,7 +815,7 @@ msgstr ""
 #. type: Content of: <section><info><title>
 #: en/configureServices.xml:12
 msgid "Configure your Services"
-msgstr "Налаштування ваших служб"
+msgstr "Настройка ваших служб"
 
 #. type: Content of: <section><para>
 #: en/configureServices.xml:19
@@ -1918,7 +1918,7 @@ msgstr ""
 #. type: Content of: <section><info><title>
 #: en/configureTimezoneUTC.xml:12
 msgid "Configure your Timezone"
-msgstr "Налаштування часового поясу"
+msgstr "Настройка часового пояса"
 
 #. type: Content of: <section><para>
 #: en/configureTimezoneUTC.xml:19
