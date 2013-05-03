@@ -2,12 +2,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Yuri Chornoivan <yurchor@ukr.net>, 2012, 2013.
+# Valentin Saikov <saikov.vb@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: doc-discuss@ml.mageia.org\n"
-"POT-Creation-Date: 2013-03-31 12:29+0400\n"
-"PO-Revision-Date: 2013-04-06 15:58+0300\n"
+"POT-Creation-Date: 2013-04-07 12:45+0400\n"
+"PO-Revision-Date: 2013-04-07 15:52+0300\n"
 "Last-Translator: Saikov Valentin <saikov.vb@gmail.com>\n"
 "Language-Team: Russian <saikov.vb@gmail.com>\n"
 "Language: ru\n"
@@ -138,7 +139,7 @@ msgstr ""
 "В каждой установленной системе <application>Mageia</application> следует "
 "определить пароль суперпользователя или администратора. Такой пароль в Linux "
 "обычно называется <emphasis>пароль root</emphasis>. При вводе пароля цвет "
-"отметки щита меняться с красного на жёлтый, а затем на зелёный в зависимости "
+"отметки щита должен меняться с красного на жёлтый, а затем на зелёный в зависимости "
 "от сложности пароля. Зелёный цвет соответствует достаточно сложным паролям. "
 "Вам также следует повторить ввод пароля в поле расположенном ниже, чтобы "
 "удостовериться, что пароль был введён без ошибок."
@@ -373,7 +374,7 @@ msgid ""
 msgstr ""
 "Если в системе много разделов, с помощью выпадающего меню вы сможете выбрать "
 "для них разные точки монтирования, в частности такие: <literal>/</literal>, "
-"<literal>/home</literal> і <literal>/var</literal>. Кроме того, вы можете "
+"<literal>/home</literal> и <literal>/var</literal>. Кроме того, вы можете "
 "создать собственные точки монтирования, например <literal>/video</literal> "
 "раздела, на котором будут храниться ваши видео файлы или <literal>/cauldron-"
 "home</literal> для раздела <literal>/home</literal> установленной тестовой "
@@ -645,12 +646,12 @@ msgid ""
 "<code>mem=xxxM</code> parameter, where xxx is the correct amount of RAM. e."
 "g. <code>mem=256M</code> would specify 256MB of RAM."
 msgstr ""
-"Потреба у визначенні параметрів ядра виникає нечасто, але у певних випадках "
-"комп’ютер може повідомляти засобу встановлення помилкові дані щодо об’єму "
-"оперативної пам’яті. Щоб вказати об’єм оперативної пам’яті вручну, "
-"скористайтеся командою <code>mem=xxxM</code>, де xxx правильне значення "
-"об’єму оперативної пам’яті, наприклад <code>mem=256M</code> відповідає 256 "
-"МБ оперативної пам’яті."
+"Потребность в определении параметров ядра возникает не часто, но в некоторых "
+"случаях компьютер может сообщать инсталятору ложные данные относительно "
+"объема оперативной памяти. Чтобы указать объем оперативной памяти вручную, "
+"воспользуйтесь командой <code>mem=xxxM</code>, где xxx правильное значение "
+"оперативной памяти, например <code>mem=256M</code> соответствует 256 МБ "
+"оперативной памяти."
 
 #. type: Content of: <section><info><title>
 #: en/selectInstallClass.xml:22
@@ -812,6 +813,49 @@ msgstr ""
 "со способом переключения между латинской и нелатинской раскладкой."
 
 #. type: Content of: <section><info><title>
+#: en/configureServices.xml:12
+msgid "Configure your Services"
+msgstr "Настройка ваших служб"
+
+#. type: Content of: <section><para>
+#: en/configureServices.xml:19
+msgid ""
+"Here you can set which services should (not) start when you boot your system."
+msgstr ""
+"С помощью этой страницы вы можете определить, какие службы запускаться, а "
+"какие нет, при загрузке вашей системы."
+
+#. type: Content of: <section><para>
+#: en/configureServices.xml:22
+msgid ""
+"There are four groups, click on the triangle before a group to expand it and "
+"see all services in it."
+msgstr ""
+"Предусмотрено четыре группы служб. Чтобы развернуть список каждой из групп, "
+"нажмите кнопку с изображением треугольника перед пунктом группы."
+
+#. type: Content of: <section><para>
+#: en/configureServices.xml:26
+msgid "The setting DrakX chose are usually good."
+msgstr "Обычно необходимости в изменении настроек, выбранных DrakX, нет."
+
+#. type: Content of: <section><para>
+#: en/configureServices.xml:29
+msgid ""
+"If you highlight a service, some information about it is shown in the info "
+"box below."
+msgstr ""
+"После обозначения пункта службы программа покажет дополнительные данные о "
+"службе на панели под списком."
+
+#. type: Content of: <section><para>
+#: en/configureServices.xml:33
+msgid "Only change things when you know very well what you are doing."
+msgstr ""
+"Вносите изменения, только если вам хорошо известны последствия ваших "
+"действий."
+
+#. type: Content of: <section><info><title>
 #: en/selectLanguage.xml:23
 msgid "Please choose a language to use"
 msgstr "Выберите пожалуйста, язык"
@@ -941,12 +985,12 @@ msgstr ""
 "хранящиеся на этом диске."
 
 #. type: Content of: <section><info><title>
-#: en/doPartitionDisks.xml:26
+#: en/doPartitionDisks.xml:28
 msgid "Partitioning"
 msgstr "Разбивка на разделы"
 
 #. type: Content of: <section><para>
-#: en/doPartitionDisks.xml:29
+#: en/doPartitionDisks.xml:31
 msgid ""
 "In this screen you can see the content of your hard drive(s) and see the "
 "solutions the DrakX partitioning wizard found for where to install "
@@ -957,7 +1001,7 @@ msgstr ""
 "DrakX о месте установки <application>Mageia</application>."
 
 #. type: Content of: <section><para>
-#: en/doPartitionDisks.xml:34
+#: en/doPartitionDisks.xml:36
 msgid ""
 "The options available from the list below will vary depending on your "
 "particular hard drive(s) layout and content."
@@ -966,7 +1010,7 @@ msgstr ""
 "компьютера и содержимого дисков."
 
 #. type: Content of: <section><mediaobject>
-#: en/doPartitionDisks.xml:39
+#: en/doPartitionDisks.xml:41
 msgid ""
 "<imageobject> <imagedata align=\"center\" depth=\"600\" fileref=\"dx2-"
 "doPartitionDisks.png\" width=\"800\"/> </imageobject>"
@@ -975,12 +1019,12 @@ msgstr ""
 "doPartitionDisks.png\" width=\"800\"/> </imageobject>"
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:47
+#: en/doPartitionDisks.xml:49
 msgid "Use Existing Partitions"
 msgstr "Использовать существующие разделы"
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:50
+#: en/doPartitionDisks.xml:52
 msgid ""
 "If this option is available, then existing Linux compatible partitions have "
 "been found and may be used for the installation."
@@ -990,12 +1034,12 @@ msgstr ""
 "системы."
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:56
+#: en/doPartitionDisks.xml:58
 msgid "Use Free Space"
 msgstr "Использовать свободное место"
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:58
+#: en/doPartitionDisks.xml:60
 msgid ""
 "If you have unused space on your hard drive then this option will use it for "
 "your new Mageia installation."
@@ -1004,12 +1048,12 @@ msgstr ""
 "свободное место, достаточное для установки новой системы Mageia."
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:64
+#: en/doPartitionDisks.xml:66
 msgid "Use Free Space on a Windows Partition"
 msgstr "Использовать свободное пространство на разделе Microsoft Windows®"
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:67
+#: en/doPartitionDisks.xml:69
 msgid ""
 "If you have unused space on an existing Windows partition, the installer may "
 "offer to use it."
@@ -1018,7 +1062,7 @@ msgstr ""
 "Windows достаточно свободного места для установки новой операционной системы."
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:71
+#: en/doPartitionDisks.xml:73
 msgid ""
 "This can be a useful way of making room for your new Mageia installation, "
 "but is a risky operation so you should make sure you have backed up all "
@@ -1029,7 +1073,7 @@ msgstr ""
 "предварительно создать резервные копии важных для вас файлов!"
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:76
+#: en/doPartitionDisks.xml:78
 msgid ""
 "Note that this involves shrinking the size of the Windows partition. The "
 "partition must be \"clean\", meaning that Windows must have closed down "
@@ -1047,26 +1091,26 @@ msgstr ""
 "копии важных для вас файлов."
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:86
+#: en/doPartitionDisks.xml:88
 msgid "Erase and use Entire Disk."
 msgstr "Стереть и использовать весь диск"
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:89
+#: en/doPartitionDisks.xml:91
 msgid "This option will use the complete drive for Mageia."
 msgstr ""
 "При использовании этого варианта для установки Mageia будет использован весь "
 "объем на диске."
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:92
+#: en/doPartitionDisks.xml:94
 msgid "Note! This will erase ALL data on the selected hard drive. Take care!"
 msgstr ""
 "Замечание: все данные на диске будет в таком случае уничтожены. Будьте "
 "осторожны!"
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:95
+#: en/doPartitionDisks.xml:97
 msgid ""
 "If you intend to use part of the disk for something else, or you already "
 "have data on the drive that you are not prepared to lose, then do not use "
@@ -1077,12 +1121,12 @@ msgstr ""
 "вариантом."
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:102
+#: en/doPartitionDisks.xml:104
 msgid "Custom"
 msgstr "Вручную"
 
 #. type: Content of: <section><para><itemizedlist><listitem><para>
-#: en/doPartitionDisks.xml:104
+#: en/doPartitionDisks.xml:106
 msgid ""
 "This gives you complete control over the placing of the installation on your "
 "hard drive(s)."
@@ -1090,51 +1134,179 @@ msgstr ""
 "С помощью этого варианта вы можете получить полный доступ к расположению "
 "разделов на вашем диске в соответствии с вашими предпочтениями."
 
-#. type: Content of: <section><para><warning><para>
-#: en/doPartitionDisks.xml:111
+#. type: Content of: <section><warning><para>
+#: en/doPartitionDisks.xml:113
 msgid ""
-"If you have a SSD (Solid State Drive) instead of a hard disk, at the time "
-"this help was written, it was inadvisable to create the partitions with this "
-"tool because they would not be aligned. The SSD would work but with reduced "
-"speed and lifetime. Use a partitioning tool such as Gparted instead with "
-"these partition alignment settings for each partition :"
+"Some newer drives are now using 4096 byte logical sectors, instead of the "
+"previous standard of 512 byte logical sectors.  Due to lack of available "
+"hardware, the partitioning tool used in the installer has not been tested "
+"with such a drive. We suggest to pre-partition the drive, using an "
+"alternative partitioning tool like gparted, if you own such a device."
 msgstr ""
-"Если на вашем компьютере установлен SSD (твердотельный накопитель) вместо "
-"жесткого диска, на момент написания этой справки создания разделов с помощью "
-"этого инструмента не рекомендуется, поскольку такие разделы не будет должным "
-"образом выровнены. Диск SSD работает, но скорость его работы и время "
-"работоспособности значительно уменьшится. Воспользуйтесь программой для "
-"разделения на разделы, в частности Gparted, с такими параметрами "
-"выравнивания разделов для каждого раздела:"
-
-#. type: Content of: <section><para><warning><para>
-#: en/doPartitionDisks.xml:118
-msgid "Free space preceding (MiB) : 2"
-msgstr "Свободное место перед (МБ): 2"
-
-#. type: Content of: <section><para><warning><para>
-#: en/doPartitionDisks.xml:120
-msgid "Round to cylinders : unchecked"
-msgstr "Округлить цилиндры: не обозначено"
+"В некоторых новых дисках используются логические сектора в 4096 байт вместо "
+"предыдущего стандарта в 512 байт на логический сектор. Так что у "
+"разработчиков нет достаточного доступа к соответствующему оборудовании "
+"следовательно надлежащее тестирование программы для разделения диска на "
+"разделы на таких дисках не выполнялось. Советуем вам выполнить разделение "
+"такого диска на разделы с помощью альтернативной специализированной "
+"программы, например gparted."
 
 #. type: Content of: <section><info><title>
-#: en/choosePackages.xml:4
-msgid "Choosing Packages to be Installed"
-msgstr "Выбор пакетов, следует установить"
+#: en/chooseDesktop.xml:5
+msgid "Desktop Selection"
+msgstr "Выбор рабочего стола"
 
 #. type: Content of: <section><para>
-#: en/choosePackages.xml:29
-msgid "This file is choosePackages.html."
-msgstr "Это файл choosePackages.html."
-
-#. type: Content of: <section><para>
-#: en/choosePackages.xml:30
+#: en/chooseDesktop.xml:11
 msgid ""
-"This page was split into 4 new pages. We must keep it in Calenco for the "
-"history, but it shouldn't be used in a publication anymore."
+"Depending on your selection here, you may be offered further screens to fine "
+"tune your choice."
 msgstr ""
-"Эта страница разделена на 4 новых страницы. Мы сохраняем ее на Calenco из "
-"исторических соображений, но ее не следует использовать для обнародования."
+"В зависимости от выбранного вами, с помощью этой страницы, варианта "
+"установки программа может предложить на последующих страницах дополнительные "
+"возможности окончательной настройки вашей системы."
+
+#. type: Content of: <section><para>
+#: en/chooseDesktop.xml:13
+msgid ""
+"After the selection step(s), you will see a slide show during package "
+"installation. The slide show can be disabled by pressing the "
+"<guilabel>Details</guilabel> button"
+msgstr ""
+"После выполнения операций выбора, вы увидите демонстрацию слайдов. Отключить "
+"показ слайдов можно нажатием кнопки <guilabel>Подробности</guilabel>."
+
+#. type: Content of: <section><mediaobject>
+#: en/chooseDesktop.xml:20
+msgid ""
+"<imageobject> <imagedata fileref=\"dx2-chooseDesktop.png\" align=\"center\" "
+"format=\"PNG\" width=\"800\" depth=\"600\"></imagedata> </imageobject>"
+msgstr ""
+"<imageobject> <imagedata fileref=\"dx2-choosePackages.png\" align=\"center\" "
+"format=\"PNG\" width=\"800\" depth=\"600\"></imagedata> </imageobject>"
+
+#. type: Content of: <section><para>
+#: en/chooseDesktop.xml:26
+msgid ""
+"Choose whether you prefer to use the <application>KDE</application> or "
+"<application>Gnome</application> desktop environment. Both come with a full "
+"set of useful applications and tools. Tick <guilabel>Custom</guilabel> if "
+"you want to use neither or both, or if you want something other than the "
+"default software choices for these desktop environments. The "
+"<application>LXDE</application> desktop is lighter than the previous two, "
+"sporting less eye candy and fewer packages installed by default."
+msgstr ""
+"Выберите желаемую для вас графическую среду, <application>KDE</application> "
+"или <application>Gnome</application>. Эти среды объединяют полноценные "
+"наборы программ и инструментов. Отметьте пункт <guilabel>Дополнительно</"
+"guilabel> ,если вы намерены не использовать ни одну из этих сред, намерены "
+"использовать оба или хотите выбрать какой-то особый перечень программного "
+"обеспечения для этих сред. Рабочая среда <application>LXDE</application> "
+"является менее требовательным к ресурсам чем первые две среды, но выглядит "
+"не так ярко и типично содержит меньше полезных программ."
+
+#. type: Content of: <section><info><title>
+#: en/choosePackageGroups.xml:4
+msgid "Package Group Selection"
+msgstr "Выбор групп пакетов"
+
+#. 2012-12-26 marja - exported this section from choosePackages.xml to start a new page
+#. type: Content of: <section><mediaobject>
+#: en/choosePackageGroups.xml:10
+msgid ""
+"<imageobject> <imagedata fileref=\"dx2-choosePackageGroups.png\" align="
+"\"center\" format=\"PNG\" width=\"800\" depth=\"600\"></imagedata> </"
+"imageobject>"
+msgstr ""
+"<imageobject> <imagedata fileref=\"dx2-choosePackages.png\" align=\"center\" "
+"format=\"PNG\" width=\"800\" depth=\"600\"></imagedata> </imageobject>"
+
+#. type: Content of: <section><para>
+#: en/choosePackageGroups.xml:16
+msgid ""
+"Packages have been sorted into groups, to make choosing what you need on "
+"your system a lot easier. The groups are fairly self explanatory, however "
+"more information about the content of each is available in tool-tips which "
+"become visible as the mouse is hovered over them."
+msgstr ""
+"Чтобы облегчить выбор нужных вам пакетов, список разделен на группы. "
+"Назначение групп можно понять из их названий, впрочем, вы можете получить "
+"подсказку относительно содержания группы в ответ на наведение указателя мыши "
+"на пункт группы в списке."
+
+#. type: Content of: <section><itemizedlist><listitem><para>
+#: en/choosePackageGroups.xml:23
+msgid "Workstation."
+msgstr "Рабочая станция."
+
+#. type: Content of: <section><itemizedlist><listitem><para>
+#: en/choosePackageGroups.xml:27
+msgid "Server."
+msgstr "Сервер"
+
+#. type: Content of: <section><itemizedlist><listitem><para>
+#: en/choosePackageGroups.xml:31
+msgid "Graphical Environment."
+msgstr "Графическая среда."
+
+#. type: Content of: <section><itemizedlist><listitem><para>
+#: en/choosePackageGroups.xml:35
+msgid ""
+"Individual Package Selection: You can use this option to manually add or "
+"remove packages."
+msgstr ""
+"Индивидуальный выбор пакетов: этот вариант можно использовать для добавления "
+"или удаления пакетов вручную."
+
+#. type: Content of: <section><para>
+#: en/choosePackageGroups.xml:39
+msgid ""
+"Read <xref linkend=\"minimal-install\"></xref> for instructions on how to do "
+"a minimal install."
+msgstr ""
+"Ознакомьтесь с разделом <xref linkend=\"minimal-install\"></xref>, где "
+"изложены указания относительно установки минимальной системы."
+
+#. type: Content of: <section><info><title>
+#: en/choosePackagesTree.xml:4
+msgid "Choose Individual Packages"
+msgstr "Выбор индивидуальных пакетов"
+
+#. 2012-12-26 marja - exported this section from choosePackages.xml to start a new page
+#. type: Content of: <section><mediaobject>
+#: en/choosePackagesTree.xml:11
+msgid ""
+"<imageobject> <imagedata fileref=\"dx2-choosePackagesTree.png\" align="
+"\"center\" format=\"PNG\" width=\"800\" depth=\"600\"></imagedata> </"
+"imageobject>"
+msgstr ""
+"<imageobject> <imagedata fileref=\"dx2-choosePackagesTree.png\" align="
+"\"center\" format=\"PNG\" width=\"800\" depth=\"600\"></imagedata> </"
+"imageobject>"
+
+#. type: Content of: <section><para>
+#: en/choosePackagesTree.xml:17
+msgid ""
+"Here you can add or remove any extra packages to customise your installation."
+msgstr ""
+"С помощью этого варианта можно выбрать дополнительные пакеты, которые "
+"дополнят установленную вами систему, или удалить пакеты являющиеся частью "
+"типового набора."
+
+#. type: Content of: <section><para>
+#: en/choosePackagesTree.xml:20
+msgid ""
+"After having made your choice, you can click on the <guibutton>floppy icon</"
+"guibutton> at the bottom of the page to save your choice of packages (saving "
+"to a USB key works, too). You can then use this file to install the same "
+"packages on another system, by pressing the same button during install and "
+"choosing to load it."
+msgstr ""
+"Как только выбор будет сделан, вы сможете нажать <guibutton>значок дискеты</"
+"guibutton> в нижней части страницы, чтобы сохранить список пакетов (данные "
+"можно сохранить на флэш-носителе USB). После этого сохраненным файлом можно "
+"будет воспользоваться для установки системы на другие компьютеры: достаточно "
+"нажать эту кнопку еще раз при установке и загрузить сохраненный файл."
 
 #. type: Content of: <section><info><title>
 #: en/diskdrake.xml:19
@@ -1742,6 +1914,41 @@ msgid "Bear in mind that allowing everything (no firewall) may be very risky."
 msgstr ""
 "Помните, что включение доступа без ограничений (выключение брандмауэра) "
 "может значительно снизить уровень защиты вашей системы."
+
+#. type: Content of: <section><info><title>
+#: en/configureTimezoneUTC.xml:12
+msgid "Configure your Timezone"
+msgstr "Настройка часового пояса"
+
+#. type: Content of: <section><para>
+#: en/configureTimezoneUTC.xml:19
+msgid ""
+"Choose your time zone by choosing your country or a city close to you in the "
+"same time zone."
+msgstr ""
+"Выберите ваш часовой пояс. Для этого достаточно выбрать вашу страну или "
+"какой-то город рядом с вашим местом пребывания так, чтобы этот город был "
+"расположен в том же часовом поясе."
+
+#. type: Content of: <section><para>
+#: en/configureTimezoneUTC.xml:23
+msgid ""
+"In next screen you can choose to set your hardware clock to local time or to "
+"GMT, also known as UTC."
+msgstr ""
+"С помощью следующего раздела вы можете указать режим работы системных часов "
+"компьютера: использование местного времени или времени по Гринвичу, также "
+"известного как Всемирное время."
+
+#. type: Content of: <section><note><para>
+#: en/configureTimezoneUTC.xml:28
+msgid ""
+"If you have more than one operating system on your computer, make sure they "
+"are all set to local time, or all to UTC/GMT."
+msgstr ""
+"Если на компьютере установлено несколько операционных систем, убедитесь, что "
+"во всех этих системах используется местное время или Всемирное время (UTC/"
+"GMT)."
 
 #. type: Content of: <section><info><title>
 #: en/resizeFATChoose.xml:17
@@ -2863,1143 +3070,149 @@ msgstr ""
 "Пожалуйста, не экспериментируйте с этими параметрами, если вам достоверно "
 "неизвестно их назначение."
 
-#~ msgid ""
-#~ "<imageobject> <imagedata revision=\"1\" fileref=\"dx2-setupBootloader.png"
-#~ "\" align=\"center\" width=\"100%\" format=\"PNG\" depth=\"600\" xml:id="
-#~ "\"setupBootloader-im1\"></imagedata> </imageobject>"
-#~ msgstr ""
-#~ "<imageobject> <imagedata revision=\"1\" fileref=\"dx2-setupBootloader.png"
-#~ "\" align=\"center\" width=\"100%\" format=\"PNG\" depth=\"600\" xml:id="
-#~ "\"setupBootloader-im1\"></imagedata> </imageobject>"
-
-#~ msgid ""
-#~ "This works correctly in the majority of cases for Linux and "
-#~ "<application>Windows<superscript>®</superscript></application> systems."
-#~ msgstr ""
-#~ "Такі налаштування належним чином працюватимуть з більшістю систем Linux "
-#~ "та <application>Windows<superscript>®</superscript></application>."
-
-#~ msgid ""
-#~ "Linux systems which use the GRUB2 bootloader (e.g. more recent Debian/"
-#~ "Ubuntu derivatives) are not currently supported and will not be "
-#~ "recognised. One possible solution for this is to follow the steps "
-#~ "explained here <xref linkend=\"addingGRUB2system\"></xref> before "
-#~ "installing Mageia next to such a system, however there is no guarantee."
-#~ msgstr ""
-#~ "Операційні системи Linux, у яких використовується завантажувач GRUB2 "
-#~ "(зокрема останні версії Debian/Ubuntu та похідних дистрибутивів) у "
-#~ "поточній версії не підтримуються, ці системи не буде розпізнано. Вирішити "
-#~ "проблему з цими системами можна у спосіб, описаний у розділі <xref "
-#~ "linkend=\"addingGRUB2system\"></xref> до встановлення Mageia поряд з "
-#~ "такими системами. Втім, дієвість цього способу не гарантовано."
-
-#~ msgid ""
-#~ "If you are already installing Mageia without having taken those steps, "
-#~ "(and do not already know the GRUB2 version and/or it's root partition) "
-#~ "then install the Mageia bootloader in the root partition for now (see "
-#~ "next section), and inspect your GRUB2 based system after rebooting at the "
-#~ "end of the installation. Note that you will not yet be able to boot "
-#~ "Mageia, however you will be able to use the Mageia install DVD to perform "
-#~ "a quick \"upgrade install\" at a later date to correctly install the "
-#~ "bootloader to the MBR."
-#~ msgstr ""
-#~ "Якщо ви вже встановлюєте Mageia без вжиття попередніх заходів (і вам "
-#~ "нічого не відомо про версію GRUB2 і/або кореневий розділ відповідної "
-#~ "системи), встановіть завантажувач Mageia на кореневий розділ (див. "
-#~ "наступний розділ цієї довідкової сторінки) і використайте вашу засновану "
-#~ "на GRUB2 систему після перезавантаження наприкінці встановлення. "
-#~ "Зауважте, що завантажити Mageia буде неможливо, але ви зможете "
-#~ "скористатися образом DVD Mageia для виконання швидкого «оновлення», щоб "
-#~ "встановити завантажувач до MBR належним чином."
-
-#~ msgid ""
-#~ "<imageobject> <imagedata revision=\"1\" fileref=\"dx2-license.png\" width="
-#~ "\"800\" align=\"center\" format=\"PNG\" depth=\"600\" xml:id="
-#~ "\"acceptLicense-im1\"></imagedata> </imageobject>"
-#~ msgstr ""
-#~ "<imageobject> <imagedata revision=\"1\" fileref=\"dx2-license.png\" width="
-#~ "\"800\" align=\"center\" format=\"PNG\" depth=\"600\" xml:id="
-#~ "\"acceptLicense-im1\"></imagedata> </imageobject>"
-
-#~ msgid ""
-#~ "<imageobject> <imagedata revision=\"1\" fileref=\"dx2-selectMouse.png\" "
-#~ "width=\"800\" depth=\"600\" format=\"PNG\" align=\"center\" xml:id="
-#~ "\"selectMouse-im1\"></imagedata> </imageobject>"
-#~ msgstr ""
-#~ "<imageobject> <imagedata revision=\"1\" fileref=\"dx2-selectMouse.png\" "
-#~ "width=\"800\" depth=\"600\" format=\"PNG\" align=\"center\" xml:id="
-#~ "\"selectMouse-im1\"></imagedata> </imageobject>"
-
-#~ msgid ""
-#~ "Depending on your selections here, you may be offered further screens to "
-#~ "fine tune your choices."
-#~ msgstr ""
-#~ "Залежно від вибраного вами за допомогою цієї сторінки варіанта "
-#~ "встановлення, програма може запропонувати на подальших сторінка додаткові "
-#~ "можливості остаточного налаштування вашої системи."
-
-#~ msgid ""
-#~ "After the selection step(s), you will see a slide show during package "
-#~ "installation. The slide show can be disabled by pressing the "
-#~ "<guilabel>Details</guilabel> button"
-#~ msgstr ""
-#~ "Після виконання кроків вибору, ви побачите показ слайдів. Вимкнути показ "
-#~ "слайдів можна натисканням кнопки <guilabel>Подробиці</guilabel>."
-
-#~ msgid "Desktop Selection"
-#~ msgstr "Вибір стільниці"
-
-#~ msgid ""
-#~ "Choose whether you prefer to use the <application>KDE</application> or "
-#~ "<application>Gnome</application> desktop environment. Both come with a "
-#~ "full set of useful applications and tools. Tick <guilabel>Custom</"
-#~ "guilabel> if you want to use neither or both, or if you want something "
-#~ "other than the default software choices for these desktop environments. "
-#~ "The <application>LXDE</application> desktop is lighter than the previous "
-#~ "two, sporting less eye candy and fewer packages installed by default."
-#~ msgstr ""
-#~ "Виберіть бажане для вас графічне середовище, <application>KDE</"
-#~ "application> або <application>Gnome</application>. Обидва ці середовища "
-#~ "об’єднують повноцінні набори програм таінструментів. Позначте пункт "
-#~ "<guilabel>Спеціальний</guilabel> , якщо ви не маєте наміру "
-#~ "використовувати жодне з цих середовищ, маєте намір використовувати обидва "
-#~ "або хочете вибрати якийсь особливий перелік програмного забезпечення для "
-#~ "цих середовищ. Стільничне середовище <application>LXDE</application> є "
-#~ "менш вибагливим до ресурсів ніж перші два середовища, але виглядає не так "
-#~ "яскраво і типово містить менше корисних програм. Якщо ви не маєте наміру "
-#~ "використовувати жодне з цих середовищ, маєте намір використовувати обидва "
-#~ "або хочете вибрати якийсь особливий перелік програмного забезпечення для "
-#~ "цих середовищ. Стільничне середовище LXDE є менш вибагливим до ресурсів "
-#~ "ніж перші два середовища, але виглядає не так яскраво і типово містить "
-#~ "менше корисних програм."
-
-#~ msgid "Package Group Selection"
-#~ msgstr "Вибір груп пакунків"
-
-#~ msgid ""
-#~ "<imageobject> <imagedata fileref=\"dx2-choosePackages.png\" align=\"center"
-#~ "\" format=\"PNG\" width=\"800\" depth=\"600\"></imagedata> </imageobject>"
-#~ msgstr ""
-#~ "<imageobject> <imagedata fileref=\"dx2-choosePackages.png\" align=\"center"
-#~ "\" format=\"PNG\" width=\"800\" depth=\"600\"></imagedata> </imageobject>"
-
-#~ msgid ""
-#~ "Packages have been sorted into groups, to make choosing what you need on "
-#~ "your system a lot easier. The groups are fairly self explanatory, however "
-#~ "more information about the content of each is available in tool-tips "
-#~ "which become visible as the mouse is hovered over them."
-#~ msgstr ""
-#~ "Щоб полегшити вибір потрібних вам пакунків, список поділено на групи. "
-#~ "Призначення груп можна зрозуміти з їхніх назв, втім, ви також можете "
-#~ "отримати підказку щодо вмісту групи у відповідь на наведення вказівника "
-#~ "миші на пункт групи у списку."
-
-#~ msgid "Workstation."
-#~ msgstr "Робоча станція."
-
-#~ msgid "Server."
-#~ msgstr "Сервер"
-
-#~ msgid "Graphical Environment."
-#~ msgstr "Графічне середовище."
-
-#~ msgid ""
-#~ "Individual Package Selection: You can use this option to manually add or "
-#~ "remove packages."
-#~ msgstr ""
-#~ "Індивідуальний вибір пакунків: цим варіантом можна скористатися для "
-#~ "додавання або вилучення пакунків вручну."
-
-#~ msgid "Minimal Install"
-#~ msgstr "Мінімальне встановлення"
-
-#~ msgid ""
-#~ "You can choose a Minimal Installation by de-selecting everything in the "
-#~ "Package Group Selection screen. Minimal Installation is intended for "
-#~ "those with specific uses in mind for their <application>Mageia</"
-#~ "application>, such as a server or a specialised workstation. You will "
-#~ "probably use this option combined with Manual Package Selection. If you "
-#~ "choose this installation class, then the next screen will offer you a few "
-#~ "useful extras to install, such as documentation and X."
-#~ msgstr ""
-#~ "Ви можете вибрати «Мінімальне встановлення» зняттям позначок з усіх "
-#~ "пунктів у списку вибору груп пакунків. Мінімальний режим призначено для "
-#~ "тих, хто має намір використовувати <application>Mageia</application> з "
-#~ "якоюсь вузькоспеціалізованою метою, зокрема як сервер або робочу станцію "
-#~ "вузького спрямування. Цим варіантом варто користуватися у поєднанні з "
-#~ "вибором пакунків вручну. Якщо ви виберете цей варіант встановлення, на "
-#~ "наступній сторінці програми вам буде запропоновано встановити корисні "
-#~ "доповнення системи, зокрема документацію та графічний сервер."
-
-#~ msgid "Choose Individual Packages"
-#~ msgstr "Вибір окремих пакунків"
-
-#~ msgid ""
-#~ "<imageobject> <imagedata fileref=\"dx2-choosePackagesTree.png\" align="
-#~ "\"center\" format=\"PNG\" width=\"800\" depth=\"600\"></imagedata> </"
-#~ "imageobject>"
-#~ msgstr ""
-#~ "<imageobject> <imagedata fileref=\"dx2-choosePackagesTree.png\" align="
-#~ "\"center\" format=\"PNG\" width=\"800\" depth=\"600\"></imagedata> </"
-#~ "imageobject>"
-
-#~ msgid ""
-#~ "Here you can add or remove any extra packages to customise your "
-#~ "installation."
-#~ msgstr ""
-#~ "За допомогою цього варіанта ви можете вибрати додаткові пакунки, які "
-#~ "доповнять встановлену вами систему, або вилучити пакунки, що є частиною "
-#~ "типового набору."
-
-#~ msgid ""
-#~ "After having made your choice, you can click on the <guibutton>floppy "
-#~ "icon</guibutton> at the bottom of the page to save your choice of "
-#~ "packages (saving to a USB key works, too). You can then use this file to "
-#~ "install the same packages on another system, by pressing the same button "
-#~ "during install and choosing to load it."
-#~ msgstr ""
-#~ "Щойно вибір буде зроблено, ви зможете натиснути <guibutton>піктограму "
-#~ "дискети</guibutton> у нижній частині сторінки, щоб зберегти список "
-#~ "пакунків (дані можна зберегти на флеш-носієві USB). Після цього "
-#~ "збереженим файлом можна буде скористатися для встановлення системи на "
-#~ "інші комп’ютери: достатньо буде натиснути ту саму кнопку ще раз під час "
-#~ "встановлення і завантажити збережений файл."
-
-#~ msgid "Choose Packages - Links"
-#~ msgstr "Вибір пакунків — посилання"
-
-#~ msgid ""
-#~ "Clicking the <guilabel>Help</guilabel> button may have led you to a wrong "
-#~ "section of this page. Please click on the relevant link below to go to "
-#~ "the correct section, or scroll up to see it."
-#~ msgstr ""
-#~ "Натискання кнопки <guilabel>Довідка</guilabel> може призвести до переходу "
-#~ "до помилкового розділу цієї сторінки. Будь ласка, натисніть відповідне "
-#~ "посилання, наведене нижче, щоб перейти до відповідного розділу або "
-#~ "гортайте сторінку, аж доки не побачите відповідний розділ."
-
-#~ msgid "<emphasis>Desktop Selection</emphasis> KDE, GNOME or Custom:"
-#~ msgstr "<emphasis>Вибір стільниці</emphasis> KDE, GNOME або нетиповий:"
-
-#~ msgid "<xref linkend=\"choose-graphical-env\"></xref>"
-#~ msgstr "<xref linkend=\"choose-graphical-env\"></xref>"
-
-#~ msgid ""
-#~ "<emphasis>Package Group Selection</emphasis> (de)select groups of "
-#~ "packages:"
-#~ msgstr ""
-#~ "<emphasis>Вибір груп пакунків</emphasis> позначте групи пакунків (зніміть "
-#~ "позначення з груп пакунків):"
-
-#~ msgid "<xref linkend=\"choosePackagesGroups\"></xref>"
-#~ msgstr "<xref linkend=\"choosePackagesGroups\"></xref>"
-
-#~ msgid "<emphasis>Minimal Install</emphasis>:"
-#~ msgstr "<emphasis>Мінімальне встановлення</emphasis>:"
-
-#~ msgid "<xref linkend=\"minimal-install\"></xref>"
-#~ msgstr "<xref linkend=\"minimal-install\"></xref>"
-
-#~ msgid "<emphasis>Choose Individual Packages</emphasis>:"
-#~ msgstr "<emphasis>Вибір окремих пакунків</emphasis>"
-
-#~ msgid "<xref linkend=\"choosePackagesTree\"></xref>"
-#~ msgstr "<xref linkend=\"choosePackagesTree\"></xref>"
-
-#~ msgid "Configure your Timezone"
-#~ msgstr "Налаштування часового поясу"
-
-#~ msgid ""
-#~ "Choose your time zone by choosing your country or a city close to you in "
-#~ "the same time zone."
-#~ msgstr ""
-#~ "Виберіть ваш часовий пояс. Для цього достатньо вибрати вашу країну або "
-#~ "якесь місто поруч з вашим місцем перебування так, щоб це місто було "
-#~ "розташовано у тому самому часовому поясі."
-
-#~ msgid ""
-#~ "In next screen you can choose to set your hardware clock to local time or "
-#~ "to GMT, also known as UTC."
-#~ msgstr ""
-#~ "За допомогою наступного розділу ви можете вказати режим роботи апаратного "
-#~ "годинника комп’ютера: використання місцевого часу або часу за Гринвічем, "
-#~ "також відомого як Всесвітній час."
-
-#~ msgid ""
-#~ "If you have more than one operating system on your computer, make sure "
-#~ "they are all set to local time, or all to UTC/GMT."
-#~ msgstr ""
-#~ "Якщо на вашому комп’ютері встановлено декілька операційних систем, "
-#~ "переконайтеся, що у всіх цих системах використано місцевий час або "
-#~ "Всесвітній час (UTC/GMT)."
-
-#~ msgid "Select your Country / Region"
-#~ msgstr "Вибір країни і регіону"
-
-#~ msgid ""
-#~ "Select your country or region. This is important for all kinds of "
-#~ "settings, like the currency and wireless regulatory domain. Setting the "
-#~ "wrong country can lead to not being able to use a Wireless network."
-#~ msgstr ""
-#~ "Виберіть країну або регіон. Ваш вибір буде важливим для всіх типів "
-#~ "параметрів локалізації системи, зокрема вибору валюти та домену керування "
-#~ "бездротовим зв’язком. Помилковий вибір може призвести до неможливості "
-#~ "використання бездротового зв’язку."
-
-#~ msgid ""
-#~ "If your country isn't in the list, click the <guilabel>Other Countries</"
-#~ "guilabel> button and choose your country / region there."
-#~ msgstr ""
-#~ "Якщо вашої країни немає у списку, натисніть кнопку <guilabel>Інші країни</"
-#~ "guilabel> і виберіть країну або регіон за допомогою вікна, яке буде "
-#~ "відкрито."
-
-#~ msgid ""
-#~ "If your country is only in the <guilabel>Other Countries</guilabel> list, "
-#~ "after clicking <guibutton>OK</guibutton> it may seem a country from the "
-#~ "first list was chosen. Please ignore this, DrakX will follow your real "
-#~ "choice."
-#~ msgstr ""
-#~ "Якщо пункт вашої країни є лише у списку <guilabel>Інші країни</guilabel> "
-#~ "може здатися, що вибрано країну з першого списку. Будь ласка, не зважайте "
-#~ "на це, DrakX вже врахував ваш правильний вибір."
-
-#~ msgid "Input method"
-#~ msgstr "Спосіб введення"
-
-#~ msgid ""
-#~ "In the <guilabel>Other Countries</guilabel> screen you can also select an "
-#~ "input method (at the bottom of the list). Input methods allow users to "
-#~ "input multilingual characters (Chinese, Japanese, Korean, etc). IBus is "
-#~ "the default input method in Mageia DVDs, Africa/India and Asia/no-India "
-#~ "Live-CDs. For Asian and African locales, IBus will be set as default "
-#~ "input method so users should not need to configure it manually. Other "
-#~ "input methods(SCIM, GCIN, HIME, etc) also provide similar functions and "
-#~ "can be installed if you added HTTP/FTP media before package selection."
-#~ msgstr ""
-#~ "За допомогою вікна <guilabel>Інші країни</guilabel> ви також можете "
-#~ "вибрати спосіб введення (за допомогою нижньої частини списку). Способи "
-#~ "введення надають змогу користувачам вводити символи запису східних мов "
-#~ "(китайської, японської, корейської тощо). Типовим способом введення на "
-#~ "DVD з Mageia та портативних образах системи для Африки/Індії та Азії є "
-#~ "IBus. Для локалей азійських та африканських країн IBus буде визначено "
-#~ "типовим способом введення, отже користувачам не доведеться налаштовувати "
-#~ "нічого вручну. Інші способи введення (SCIM, GCIN, HIME тощо), які надають "
-#~ "користувачам подібні можливості, можна встановити, якщо перед вибором "
-#~ "пакунків було додано сховища пакунків HTTP/FTP."
-
-#~ msgid ""
-#~ "If you missed the input method setup during installation, you can access "
-#~ "it after you boot your installed system via \"Configure your Computer\" -"
-#~ "&gt; \"System\", or by running localedrake as root."
-#~ msgstr ""
-#~ "Якщо спосіб введення потрібен вам після встановлення системи, ви можете "
-#~ "отримати доступ до нього після завантаження встановленої системи за "
-#~ "допомогою пункту меню «Налаштувати ваш комп’ютер» -&gt; «Система» або "
-#~ "запуску localedrake від імені користувача root."
-
-#~ msgid "Configure your Services"
-#~ msgstr "Налаштування ваших служб"
-
-#~ msgid ""
-#~ "Here you can set which services should (not) start when you boot your "
-#~ "system."
-#~ msgstr ""
-#~ "За допомогою цієї сторінки ви можете визначити, які служби "
-#~ "запускатимуться, а які ні, під час завантаження вашої системи."
-
-#~ msgid ""
-#~ "There are four groups, click on the triangle before a group to expand it "
-#~ "and see all services in it."
-#~ msgstr ""
-#~ "Передбачено чотири групи служб. Щоб розгорнути список кожної з груп, "
-#~ "натисніть кнопку з зображенням трикутника перед пунктом групи."
-
-#~ msgid "The setting DrakX chose are usually good."
-#~ msgstr "Зазвичай, потреби у зміні налаштувань, вибраних DrakX, немає."
-
-#~ msgid ""
-#~ "If you highlight a service, some information about it is shown in the "
-#~ "info box below."
-#~ msgstr ""
-#~ "Після позначення пункту служби програма покаже додаткові дані щодо служби "
-#~ "на інформаційній панелі під списком."
-
-#~ msgid "Only change things when you know very well what you are doing."
-#~ msgstr "Вносьте зміни, лише якщо вам добре відомі наслідки ваших дій."
-
-#~ msgid "Security Level"
-#~ msgstr "Рівень безпеки"
-
-#~ msgid "You can adjust your security level here."
-#~ msgstr ""
-#~ "За допомогою цієї сторінки ви можете змінити рівень захисту вашої системи."
-
-#~ msgid ""
-#~ "Leave the default settings as they are, if you don't know what to choose."
-#~ msgstr ""
-#~ "Якщо ви не певні щодо потрібних вам параметрів, краще не змінюйте типових "
-#~ "параметрів."
-
-#~ msgid ""
-#~ "After install, it will always be possible to adjust your security "
-#~ "settings in the <guilabel>Security</guilabel> part of the Mageia Control "
-#~ "Center."
-#~ msgstr ""
-#~ "Після встановлення ви завжди зможете змінити параметри захисту за "
-#~ "допомогоюмодуля <guilabel>Безпека</guilabel> Центру керування Mageia."
-
-#~ msgid "Summary - Links"
-#~ msgstr "Резюме — посилання"
-
-#~ msgid ""
-#~ "Clicking the help button may have led you to a wrong section of this "
-#~ "page. Please click on the relevant link below to go to the correct "
-#~ "section, or scroll up to see it."
-#~ msgstr ""
-#~ "Натискання кнопки «Довідка» може призвести до переходу до помилкового "
-#~ "розділу цієї сторінки. Будь ласка, натисніть відповідне посилання, "
-#~ "наведене нижче, щоб перейти до відповідного розділу або гортайте "
-#~ "сторінку, аж доки не побачите відповідний розділ."
-
-#~ msgid "<emphasis>Configure your Timezone</emphasis>:"
-#~ msgstr "<emphasis>Налаштування часового поясу</emphasis>:"
-
-#~ msgid "<xref linkend=\"drakxid-configureTimezoneGMT\"></xref>"
-#~ msgstr "<xref linkend=\"drakxid-configureTimezoneGMT\"></xref>"
-
-#~ msgid "<emphasis>Select your Country / Region</emphasis>:"
-#~ msgstr "<emphasis>Вибір країни і регіону</emphasis>:"
-
-#~ msgid "<xref linkend=\"drakxid-selectCountry\"></xref>"
-#~ msgstr "<xref linkend=\"drakxid-selectCountry\"></xref>"
-
-#~ msgid "<emphasis>Configure your Services</emphasis>:"
-#~ msgstr "<emphasis>Налаштування ваших служб</emphasis>:"
-
-#~ msgid "<xref linkend=\"drakxid-configureServices\"></xref>"
-#~ msgstr "<xref linkend=\"drakxid-configureServices\"></xref>"
-
-#~ msgid "<emphasis>Security Level</emphasis>:"
-#~ msgstr "<emphasis>Рівень безпеки</emphasis>:"
-
-#~ msgid "<xref linkend=\"draxid-miscellaneous\"></xref>"
-#~ msgstr "<xref linkend=\"draxid-miscellaneous\"></xref>"
-
-#~ msgid "〈"
-#~ msgstr "uk"
-
-#~ msgid "Before installing"
-#~ msgstr "Перш ніж встановлювати"
-
-#~ msgid "Mageia"
-#~ msgstr "Mageia"
-
-#~ msgid "These terms and conditions apply to the entire"
-#~ msgstr "Ці умови ліцензування стосуються всього дистрибутива"
-
-#~ msgid "distribution and must be accepted before you can continue."
-#~ msgstr ". Вам слід прийняти ці умови, інакше встановлення буде неможливим."
-
-#~ msgid "To accept, simply select"
-#~ msgstr "Щоб погодитися з умовами, позначте пункт"
-
-#~ msgid "Accept"
-#~ msgstr "Прийняти"
-
-#~ msgid "and then click on"
-#~ msgstr ", а потім натисніть кнопку"
-
-#~ msgid "Next"
-#~ msgstr "Далі"
-
-#~ msgid "."
-#~ msgstr "."
-
-#~ msgid "Quit"
-#~ msgstr "Вийти"
-
-#~ msgid "will reboot your computer."
-#~ msgstr "ваш комп’ютер буде перезавантажено."
-
-#~ msgid "To see what's new in this release of"
-#~ msgstr "Щоб ознайомитися зі списком нововведень у"
-
-#~ msgid ", click on the"
-#~ msgstr ", натисніть кнопку"
-
-#~ msgid "button."
-#~ msgstr "."
-
-#~ msgid "It is advisable for all"
-#~ msgstr "У кожній встановленій системі"
-
-#~ msgid ""
-#~ "installations to set a superuser or administrator's password, usually "
-#~ "called the"
-#~ msgstr ""
-#~ " варто визначити пароль суперкористувача або адміністратора. Такий пароль "
-#~ "у Linux зазвичай має назву"
-
-#~ msgid "root password"
-#~ msgstr "пароль root"
-
-#~ msgid "Icon"
-#~ msgstr "Піктограма"
-
-#~ msgid "Real Name"
-#~ msgstr "Справжнє ім’я"
-
-#~ msgid "Login Name"
-#~ msgstr "Ім’я користувача, що реєструється"
-
-#~ msgid "The login name is case sensitive."
-#~ msgstr ""
-#~ "Під час введення імені користувача слід брати до уваги регістр символів."
-
-#~ msgid "Password"
-#~ msgstr "Пароль"
-
-#~ msgid ")"
-#~ msgstr ")."
-
-#~ msgid "Password (again)"
-#~ msgstr "Пароль (ще раз)"
-
-#~ msgid "If the"
-#~ msgstr "Якщо ви натиснете кнопку"
-
-#~ msgid "advanced"
-#~ msgstr "Додатково"
-
-#~ msgid "Anything a guest with a default"
-#~ msgstr "Будь-які дані, які буде записано з гостьового облікового запису"
-
-#~ msgid "rbash"
-#~ msgstr "rbash"
-
-#~ msgid "Enable guest account"
-#~ msgstr "Увімкнути гостьовий запис"
-
-#~ msgid "Shell"
-#~ msgstr "Командна оболонка"
-
-#~ msgid "User ID"
-#~ msgstr "Код користувача"
-
-#~ msgid "Group ID"
-#~ msgstr "Код групи"
-
-#~ msgid "DrakX"
-#~ msgstr "DrakX"
-
-#~ msgid "suggestions, you can change the mount points."
-#~ msgstr ", ви можете змінити точки монтування."
-
-#~ msgid "/"
-#~ msgstr "/"
-
-#~ msgid "(root) partition."
-#~ msgstr "."
-
-#~ msgid ""
-#~ "If you have many partitions, you can choose many different mount points "
-#~ "from the drop down menu, such as"
-#~ msgstr ""
-#~ "Якщо у вашій системі багато розділів, за допомогою спадного меню ви "
-#~ "зможете вибрати для них різні точки монтування, зокрема такі:"
-
-#~ msgid ","
-#~ msgstr ","
-
-#~ msgid "/home"
-#~ msgstr "/home"
-
-#~ msgid "and"
-#~ msgstr "і"
-
-#~ msgid "/var"
-#~ msgstr "/var"
-
-#~ msgid ". You can even make your own mount points, for instance"
-#~ msgstr ". Крім того, ви можете створити власні точки монтування, наприклад"
-
-#~ msgid "/video"
-#~ msgstr "/video"
-
-#~ msgid "for a partition where you want to store your films, or"
-#~ msgstr "для розділу, на якому зберігатимуться ваші відео файли або"
-
-#~ msgid "/cauldron-home"
-#~ msgstr "/cauldron-home"
-
-#~ msgid "for the"
-#~ msgstr "для розділу"
-
-#~ msgid "partition of a cauldron install."
-#~ msgstr "встановленої тестової версії системи (cauldron)."
-
-#~ msgid "Choose"
-#~ msgstr "Натисніть кнопку"
-
-#~ msgid "Previous"
-#~ msgstr "Назад"
-
-#~ msgid "if you are not sure what to choose, and then tick"
-#~ msgstr ", якщо ви не певні, щодо вибору. Потім натисніть кнопку"
-
-#~ msgid "Custom disk partitioning"
-#~ msgstr "Спеціальний розподіл диска"
-
-#~ msgid ""
-#~ ". In the screen that follows, you can click on a partition to see its "
-#~ "type and size."
-#~ msgstr ""
-#~ ". У вікні, яке буде відкрито у відповідь, ви зможете натиснути область "
-#~ "розділу, щоб переглянути дані щодо типу і розміру розділу."
-
-#~ msgid "If you are sure the mount points are correct, click on"
-#~ msgstr ""
-#~ "Якщо ви певні, що точки монтування визначено правильно, натисніть кнопку"
-
-#~ msgid "Each step has one or more screens which may also have"
-#~ msgstr ""
-#~ "На кожному кроці вам буде показано одну або декілька сторінок, на яких ви "
-#~ "можете побачити кнопку"
-
-#~ msgid "Advanced"
-#~ msgstr "Додатково"
-
-#~ msgid "buttons with extra, less commonly required, options."
-#~ msgstr ""
-#~ ", за допомогою якої здійснюється доступ до додаткових параметрів, якими "
-#~ "користуються не так часто як основними."
-
-#~ msgid "Most screens have"
-#~ msgstr "На більшості сторінок ви також побачите кнопку"
-
-#~ msgid "Help"
-#~ msgstr "Довідка"
-
-#~ msgid "Alt Ctrl F2"
-#~ msgstr "Alt Ctrl F2"
-
-#~ msgid "at the same time. After that, press"
-#~ msgstr "одночасно. Після цього, натисніть комбінацію клавіш"
-
-#~ msgid "Alt Ctrl Delete"
-#~ msgstr "Alt Ctrl Delete"
-
-#~ msgid "simultaneously to reboot."
-#~ msgstr "одночасно, щоб перезавантажити комп’ютер."
-
-#~ msgid "F1 (Help)"
-#~ msgstr "F1 (Довідка)"
-
-#~ msgid "key see"
-#~ msgstr "див."
-
-#~ msgid "Use this option for a fresh"
-#~ msgstr "Цим варіантом слід скористатися, якщо ви хочете встановити"
-
-#~ msgid "installation."
-#~ msgstr "з нуля."
-
-#~ msgid "If you have one or more previous installations of"
-#~ msgstr ""
-#~ "Якщо на вашому комп’ютері встановлено одну або декілька попередніх версій"
-
-#~ msgid "Alt Ctrl Home"
-#~ msgstr "Alt Ctrl Home"
-
-#~ msgid ". Do"
-#~ msgstr "."
-
-#~ msgid "not"
-#~ msgstr "Не"
-
-#~ msgid "do this later in the install."
-#~ msgstr "робіть цього під час наступних кроків встановлення."
-
-#~ msgid "en.wikipedia.org/wiki/Keyboard_layout"
-#~ msgstr "uk.wikipedia.org/wiki/Розкладка_клавіатури"
-
-#~ msgid "If your keyboard isn't in the list shown, click on"
-#~ msgstr ""
-#~ "Якщо пункту вашої клавіатури не буде у показаному списку, натисніть кнопку"
-
-#~ msgid "More"
-#~ msgstr "Ще"
-
-#~ msgid "to get a full list, and select your keyboard there."
-#~ msgstr ""
-#~ "для ознайомлення з повним списком, з якого ви можете вибрати модель "
-#~ "клавіатури."
-
-#~ msgid "After choosing a keyboard from the"
-#~ msgstr "Після вибору моделі клавіатури за допомогою діалогового вікна"
-
-#~ msgid ""
-#~ "Select your preferred language, by first expanding the list for your "
-#~ "continent."
-#~ msgstr ""
-#~ "Виберіть бажану мову інтерфейсу системи. Для цього спочатку розгорніть "
-#~ "список країн вашого континенту."
-
-#~ msgid ""
-#~ "will use this selection during the installation and for your installed "
-#~ "system."
-#~ msgstr ""
-#~ "використовуватиме вибрану вами мову під час встановлення та у вже "
-#~ "встановленій системі."
-
-#~ msgid "Multiple languages"
-#~ msgstr "Декілька мов"
-
-#~ msgid ""
-#~ "button to add them now. It will be difficult to add extra language "
-#~ "support after installation."
-#~ msgstr ""
-#~ ", щоб додати їх. Після встановлення додати підтримку мов буде доволі "
-#~ "складно."
-
-#~ msgid "Click on"
-#~ msgstr "Натисніть кнопку"
-
-#~ msgid "Details"
-#~ msgstr "Подробиці"
-
-#~ msgid "button"
-#~ msgstr "."
-
-#~ msgid "Choose whether you prefer to use the"
-#~ msgstr "Виберіть бажане для вас графічне середовище,"
-
-#~ msgid "KDE"
-#~ msgstr "KDE"
-
-#~ msgid "or"
-#~ msgstr "або"
-
-#~ msgid "Gnome"
-#~ msgstr "Gnome"
-
-#~ msgid ""
-#~ "desktop environment. Both come with a full set of useful applications and "
-#~ "tools. Tick"
-#~ msgstr ""
-#~ ". Обидва ці середовища об’єднують повноцінні набори програм та "
-#~ "інструментів. Позначте пункт"
-
-#~ msgid ""
-#~ "if you want to use neither or both, or if you want something other than "
-#~ "the default software choices for these desktop environments. The"
-#~ msgstr ""
-#~ ", якщо ви не маєте наміру використовувати жодне з цих середовищ, маєте "
-#~ "намір використовувати обидва або хочете вибрати якийсь особливий перелік "
-#~ "програмного забезпечення для цих середовищ. Стільничне середовище"
-
-#~ msgid "LXDE"
-#~ msgstr "LXDE"
-
-#~ msgid ""
-#~ "desktop is lighter than the previous two, sporting less eye candy and "
-#~ "fewer packages installed by default."
-#~ msgstr ""
-#~ "є менш вибагливим до ресурсів ніж перші два середовища, але виглядає не "
-#~ "так яскраво і типово містить менше корисних програм. Якщо ви не маєте "
-#~ "наміру використовувати жодне з цих середовищ, маєте намір використовувати "
-#~ "обидва або хочете вибрати якийсь особливий перелік програмного "
-#~ "забезпечення для цих середовищ. Стільничне середовище LXDE є менш "
-#~ "вибагливим до ресурсів ніж перші два середовища, але виглядає не так "
-#~ "яскраво і типово містить менше корисних програм."
-
-#~ msgid ""
-#~ "You can choose a Minimal Installation by de-selecting everything in the "
-#~ "Package Group Selection screen. Minimal Installation is intended for "
-#~ "those with specific uses in mind for their"
-#~ msgstr ""
-#~ "Ви можете вибрати «Мінімальне встановлення» зняттям позначок з усіх "
-#~ "пунктів у списку вибору груп пакунків. Мінімальний режим призначено для "
-#~ "тих, хто має намір використовувати"
-
-#~ msgid "After having made your choice, you can click on the"
-#~ msgstr "Щойно вибір буде зроблено, ви зможете натиснути"
-
-#~ msgid "floppy icon"
-#~ msgstr "піктограму дискети"
-
-#~ msgid "Clicking the"
-#~ msgstr "Натискання кнопки"
-
-#~ msgid ""
-#~ "button may have led you to a wrong section of this page. Please click on "
-#~ "the relevant link below to go to the correct section, or scroll up to see "
-#~ "it."
-#~ msgstr ""
-#~ "може призвести до переходу до помилкового розділу цієї сторінки. Будь "
-#~ "ласка, натисніть відповідне посилання, наведене нижче, щоб перейти до "
-#~ "відповідного розділу або гортайте сторінку, аж доки не побачите "
-#~ "відповідний розділ."
-
-#~ msgid "KDE, GNOME or Custom:"
-#~ msgstr "KDE, GNOME або нетиповий:"
-
-#~ msgid "(de)select groups of packages:"
-#~ msgstr "позначте групи пакунків (зніміть позначення з груп пакунків):"
-
-#~ msgid ":"
-#~ msgstr ":"
-
-#~ msgid "If you wish to use encryption on your"
-#~ msgstr "Якщо на вашому розділі з"
-
-#~ msgid "partition you must ensure that you have a separate"
-#~ msgstr "ви хочете скористатися шифруванням, каталог"
-
-#~ msgid "/boot"
-#~ msgstr "/boot"
-
-#~ msgid "partition. The encryption option for the"
-#~ msgstr "слід зберігати на окремому розділі. Не слід шифрувати каталог"
-
-#~ msgid "partition must NOT be set, otherwise your system will be unbootable."
-#~ msgstr ", інакше завантаження системи стане неможливим."
-
-#~ msgid "Push"
-#~ msgstr "Натисніть кнопку"
-
-#~ msgid "Clear all"
-#~ msgstr "Очистити все"
-
-#~ msgid "Click"
-#~ msgstr "Натисніть кнопку"
-
-#~ msgid "Done"
-#~ msgstr "Виконано"
-
-#~ msgid "when you're ready."
-#~ msgstr ", коли налаштовування буде завершено."
-
-#~ msgid "You have finished installing and configuring"
-#~ msgstr "Тепер"
-
-#~ msgid "marked for formatting will be saved."
-#~ msgstr "позначено для форматування, буде збережено."
-
-#~ msgid "to choose partitions you want to check for so called"
-#~ msgstr ", щоб вибрати розділи, які слід перевірити на так звані"
-
-#~ msgid "bad blocks"
-#~ msgstr "пошкоджені блоки"
-
-#~ msgid "If you're not sure you have made the right choice, you can click on"
-#~ msgstr ""
-#~ "Якщо ви непевні щодо правильності свого вибору, ви можете натиснути кнопку"
-
-#~ msgid ", again on"
-#~ msgstr ", ще раз кнопку"
-
-#~ msgid "and then on"
-#~ msgstr ", а потім кнопку"
-
-#~ msgid ""
-#~ "to get back to the main screen.  In that screen you can choose to view "
-#~ "what is in your partitions."
-#~ msgstr ""
-#~ ", щоб повернутися до основної сторінки. За допомогою основної сторінки ви "
-#~ "зможете переглянути поточні параметри розділів."
-
-#~ msgid "to continue."
-#~ msgstr ", щоб продовжити роботу з програмою."
-
-#~ msgid "Since this version of"
-#~ msgstr "З часу випуску цієї версії"
-
-#~ msgid "yes"
-#~ msgstr "так"
-
-#~ msgid "if you wish to download and install them, select"
-#~ msgstr ", якщо ви хочете отримати і встановити ці пакунки, або виберіть"
-
-#~ msgid "no"
-#~ msgstr "ні"
-
-#~ msgid ""
-#~ "if you don't want to do this now, or if you aren't connected to the "
-#~ "Internet"
-#~ msgstr ""
-#~ ", якщо ви не хочете робити цього зараз або ваш комп’ютер не з’єднано з "
-#~ "інтернетом."
-
-#~ msgid "Then press"
-#~ msgstr "Щойно вибір буде зроблено, натисніть кнопку"
-
-#~ msgid "to continue"
-#~ msgstr ", щоб продовжити роботу з програмою."
-
-#~ msgid "Configure"
-#~ msgstr "Налаштувати"
-
-#~ msgid "Timezone"
-#~ msgstr "Часовий пояс"
-
-#~ msgid "Bootloader"
-#~ msgstr "Завантажувач"
-
-#~ msgid "User management"
-#~ msgstr "Керування користувачами"
-
-#~ msgid "You can add extra users here. They will each get their own"
-#~ msgstr ""
-#~ "За допомогою цієї сторінки ви можете додати облікові записи користувачів. "
-#~ "У кожного користувача буде власний каталог"
-
-#~ msgid "Services"
-#~ msgstr "Служби"
-
-#~ msgid "Mouse"
-#~ msgstr "Миша"
-
-#~ msgid "Sound card"
-#~ msgstr "Звукова плата"
-
-#~ msgid "Network"
-#~ msgstr "Мережа"
-
-#~ msgid "Mageia Control Center"
-#~ msgstr "Центру керування Mageia"
-
-#~ msgid ", after having enabled the non-free media repositories."
-#~ msgstr ", після вмикання сховищ закритих (non-free) пакунків."
-
-#~ msgid "Proxies"
-#~ msgstr "Проксі"
-
-#~ msgid "Firewall"
-#~ msgstr "Захисний шлюз"
-
-#~ msgid "If your country isn't in the list, click the"
-#~ msgstr "Якщо вашої країни немає у списку, натисніть кнопку"
-
-#~ msgid "Other Countries"
-#~ msgstr "Інші країни"
-
-#~ msgid "button and choose your country / region there."
-#~ msgstr "і виберіть країну або регіон за допомогою вікна, яке буде відкрито."
-
-#~ msgid "If your country is only in the"
-#~ msgstr "Якщо пункт вашої країни є лише у списку"
-
-#~ msgid "list, after clicking"
-#~ msgstr ", після натискання кнопки"
-
-#~ msgid "OK"
-#~ msgstr "Гаразд"
-
-#~ msgid "In the"
-#~ msgstr "За допомогою вікна"
-
-#~ msgid "part of the Mageia Control Center."
-#~ msgstr "Центру керування Mageia."
-
-#~ msgid "Resize"
-#~ msgstr "Змінити розмір розділу"
-
-#~ msgid "Windows"
-#~ msgstr "Windows"
-
-#~ msgid "®"
-#~ msgstr "®"
-
-#~ msgid "partition"
-#~ msgstr " "
-
-#~ msgid "You have more than one"
-#~ msgstr "У вашій системі декілька розділів"
-
-#~ msgid ""
-#~ "partition.  Choose which one should be made smaller to make space for "
-#~ "installing"
-#~ msgstr ""
-#~ ". Виберіть один з них, той, який слід зменшити у розмірах, щоб отримати "
-#~ "достатньо місця для встановлення"
-
-#~ msgid "systems."
-#~ msgstr "."
-
-#~ msgid ""
-#~ "before installing Mageia next to such a system, however there is no "
-#~ "guarantee."
-#~ msgstr ""
-#~ "до встановлення Mageia поряд з такими системами. Втім, дієвість цього "
-#~ "способу не гарантовано."
-
-#~ msgid ""
-#~ "button, which will allow you to change the bootloader install location."
-#~ msgstr ""
-#~ ", за допомогою якої ви зможете змінити місце встановлення завантажувача."
-
-#~ msgid "Go to tty2 with Ctrl+Alt+F2 and type"
-#~ msgstr ""
-#~ "Перейдіть до tty2 натисканням комбінації клавіш Ctrl+Alt+F2 і віддайте "
-#~ "команду"
-
-#~ msgid "df"
-#~ msgstr "df"
-
-#~ msgid "to check where your"
-#~ msgstr "щоб визначити розташування вашого розділу"
-
-#~ msgid ""
-#~ "(root) partition is. Ctrl+Alt+F7 takes you back to the installer screen."
-#~ msgstr ""
-#~ "(кореневого каталогу). Повернутися до вікна засобу встановлення можна за "
-#~ "допомогою натискання комбінації клавіш Ctrl+Alt+F7."
-
-#~ msgid "If you have very limited disk space for the"
-#~ msgstr "Якщо об’єм на диску з розділом"
-
-#~ msgid "partition that contains"
-#~ msgstr ", що містить каталог"
-
-#~ msgid "/tmp"
-#~ msgstr "/tmp"
-
-#~ msgid ", click on"
-#~ msgstr ", є дуже обмеженим, натисніть кнопку"
-
-#~ msgid "Clean /tmp at each boot"
-#~ msgstr "Очищати /tmp при кожному перезавантаженні"
-
-#~ msgid ". This helps to maintain some free space."
-#~ msgstr ". Це допоможе зекономити трохи місця."
-
-#~ msgid ""
-#~ "No matter which graphical environment (also known as desktop environment) "
-#~ "you chose for this install of"
-#~ msgstr ""
-#~ "Байдуже, яке графічне середовище (або стільничне середовище) було вибрано "
-#~ "під час встановлення"
-
-#~ msgid "didn't make a choice, or if you think the choice is incorrect."
-#~ msgstr ""
-#~ "зроблено помилковий вибір, або якщо вам здається, що цей вибір є "
-#~ "помилковим."
-
-#~ msgid "Graphic card"
-#~ msgstr "Графічна карта"
-
-#~ msgid "Monitor"
-#~ msgstr "Монітор"
-
-#~ msgid ": You can choose"
-#~ msgstr ": ви можете вибрати"
-
-#~ msgid "Plug'n Play"
-#~ msgstr "Plug'n Play"
-
-#~ msgid "when applicable, or choose your monitor from the"
-#~ msgstr ""
-#~ "якщо вважаєте, що це правильно, або вибрати пункт вашого монітора зі "
-#~ "списків"
-
-#~ msgid "Generic"
-#~ msgstr "Загальний"
-
-#~ msgid "list. Choose"
-#~ msgstr ". Виберіть пункт"
-
-#~ msgid ""
-#~ "if you prefer to manually set the horizontal and vertical refresh rates "
-#~ "of your monitor."
-#~ msgstr ""
-#~ ", якщо хочете вручну вказати частоту оновлення зображення за вертикаллю "
-#~ "та горизонталлю для вашого монітора."
-
-#~ msgid "Resolution"
-#~ msgstr "Роздільна здатність"
-
-#~ msgid "Test"
-#~ msgstr "Перевірити"
-
-#~ msgid ""
-#~ "Make sure your settings are on the safe side if the test button isn't "
-#~ "available"
-#~ msgstr ""
-#~ "Якщо кнопка перевірки є недоступною, вам слід самостійно потурбуватися "
-#~ "про те, щоб вказані параметри були безпечними."
-
-#~ msgid "Options"
-#~ msgstr "Параметри"
-
-#~ msgid "Usually,"
-#~ msgstr "Зазвичай,"
-
-#~ msgid "Universal"
-#~ msgstr "Універсальна"
-
-#~ msgid "-"
-#~ msgstr "—"
-
-#~ msgid "Any PS/2 and USB mice"
-#~ msgstr "Будь-яка миша PS/2 чи USB"
-
-#~ msgid "is a good choice."
-#~ msgstr "є непоганим варіантом."
-
-#~ msgid "Select"
-#~ msgstr "Виберіть пункт"
-
-#~ msgid "Force evdev"
-#~ msgstr "Задіяти evdev"
-
-#~ msgid "first."
-#~ msgstr "."
-
-#~ msgid "/dev/sdb11"
-#~ msgstr "/dev/sdb11"
-
-#~ msgid "su -"
-#~ msgstr "su -"
-
-#~ msgid "title Ubuntu"
-#~ msgstr "title Ubuntu"
-
-#~ msgid "root (hd1,10)"
-#~ msgstr "root (hd1,10)"
-
-#~ msgid "sda1 = (hd0,0)"
-#~ msgstr "sda1 = (hd0,0)"
-
-#~ msgid "\"grub\""
-#~ msgstr "«grub»"
-
-#~ msgid "to"
-#~ msgstr "на"
-
-#~ msgid "\"grub2\""
-#~ msgstr "«grub2»"
-
-#~ msgid "in the last line."
-#~ msgstr "у останньому рядку."
-
-#~ msgid "\"/boot\""
-#~ msgstr "«/boot»"
-
-#~ msgid "from the last line."
-#~ msgstr "з останнього рядка."
-
-#~ msgid "/etc/grub.d/40_custom"
-#~ msgstr "/etc/grub.d/40_custom"
-
-#~ msgid "Note: This mode may not work in Mageia 2."
-#~ msgstr "Зауваження: цей режим може не працювати у Mageia 2."
-
-#~ msgid "help"
-#~ msgstr "Довідка"
-
-#~ msgid ""
-#~ "Release\n"
-#~ "    Notes"
-#~ msgstr "Нотатки щодо випуску"
+#. type: Content of: <section><info><title>
+#: en/minimal-install.xml:3
+msgid "Minimal Install"
+msgstr "Минимальные установки"
+
+#. type: Content of: <section><para>
+#: en/minimal-install.xml:8
+msgid ""
+"You can choose a Minimal Installation by de-selecting everything in the "
+"Package Group Selection screen, see <xref linkend=\"choosePackageGroups\"></"
+"xref>."
+msgstr ""
+"Вы можете выбрать «Минимальные установки» снятием отметок по всем пунктам в "
+"списке выбора групп пакетов, см.. раздел <xref linkend=\"choosePackageGroups"
+"\"></xref>."
+
+#. type: Content of: <section><para>
+#: en/minimal-install.xml:9
+msgid ""
+"Minimal Installation is intended for those with specific uses in mind for "
+"their <application>Mageia</application>, such as a server or a specialised "
+"workstation. You will probably use this option combined with Manual Package "
+"Selection, see <xref linkend=\"choosePackagesTree\"></xref>."
+msgstr ""
+"Минимальный режим предназначен для тех, кто намерен использовать "
+"<application>Mageia</application> с какой-то узкоспециализированной целью, в "
+"частности как сервер или рабочую станцию ​​узкого направления. Этим вариантом "
+"следует пользоваться в сочетании с выбором пакетов вручную, см.. <xref "
+"linkend=\"choosePackagesTree\"></xref>."
+
+#. type: Content of: <section><para>
+#: en/minimal-install.xml:13
+msgid ""
+"If you choose this installation class, then the next screen will offer you a "
+"few useful extras to install, such as documentation and X."
+msgstr ""
+"Если вы выберете этот вариант установки, на следующей странице программы вам "
+"будет предложено установить полезные дополнения системы, в частности "
+"документацию и графический сервер."
+
+#. type: Content of: <section><info><title>
+#: en/securityLevel.xml:12
+msgid "Security Level"
+msgstr "Уровень безопастности"
+
+#. type: Content of: <section><para>
+#: en/securityLevel.xml:17
+msgid "You can adjust your security level here."
+msgstr ""
+"С помощью этой страницы вы можете изменить уровень защиты вашей системы."
+
+#. type: Content of: <section><para>
+#: en/securityLevel.xml:20
+msgid ""
+"Leave the default settings as they are, if you don't know what to choose."
+msgstr ""
+"Если вы не уверены в нужных для вас параметрах, лучше не меняйте их типичные "
+"значения."
+
+#. type: Content of: <section><para>
+#: en/securityLevel.xml:23
+msgid ""
+"After install, it will always be possible to adjust your security settings "
+"in the <guilabel>Security</guilabel> part of the Mageia Control Center."
+msgstr ""
+"После установки вы всегда сможете изменить параметры защиты с помощью модуля "
+"<guilabel>Безопастность</guilabel> в Центре управления Mageia."
+
+#. type: Content of: <section><info><title>
+#: en/selectCountry.xml:13
+msgid "Select your Country / Region"
+msgstr "Выбор страны и региона"
+
+#. type: Content of: <section><para>
+#: en/selectCountry.xml:19
+msgid ""
+"Select your country or region. This is important for all kinds of settings, "
+"like the currency and wireless regulatory domain. Setting the wrong country "
+"can lead to not being able to use a Wireless network."
+msgstr ""
+"Выберите страну или регион. Ваш выбор будет важным для всех типов параметров "
+"локализации системы, в частности выбора валюты и домена управления "
+"беспроводной связью. Ложный выбор может привести к невозможности "
+"использования беспроводной связи."
+
+#. type: Content of: <section><para>
+#: en/selectCountry.xml:24
+msgid ""
+"If your country isn't in the list, click the <guilabel>Other Countries</"
+"guilabel> button and choose your country / region there."
+msgstr ""
+"Если вашей страны нет в списке, нажмите кнопку <guilabel>Другие страны</"
+"guilabel> и выберите страну или регион в окне, которое будет открыто."
+
+#. type: Content of: <section><note><para>
+#: en/selectCountry.xml:29
+msgid ""
+"If your country is only in the <guilabel>Other Countries</guilabel> list, "
+"after clicking <guibutton>OK</guibutton> it may seem a country from the "
+"first list was chosen. Please ignore this, DrakX will follow your real "
+"choice."
+msgstr ""
+"Если пункт вашей страны есть только в списке <guilabel>Другие страны</"
+"guilabel> может показаться, что выбрана страна из первого списка. "
+"Пожалуйста, не обращайте на это внимание, DrakX уже учел ваш правильный "
+"выбор."
+
+#. type: Content of: <section><section><info><title>
+#: en/selectCountry.xml:38
+msgid "Input method"
+msgstr "Способ ввода"
+
+#. type: Content of: <section><section><para>
+#: en/selectCountry.xml:41
+msgid ""
+"In the <guilabel>Other Countries</guilabel> screen you can also select an "
+"input method (at the bottom of the list). Input methods allow users to input "
+"multilingual characters (Chinese, Japanese, Korean, etc). IBus is the "
+"default input method in Mageia DVDs, Africa/India and Asia/no-India Live-"
+"CDs. For Asian and African locales, IBus will be set as default input method "
+"so users should not need to configure it manually. Other input methods(SCIM, "
+"GCIN, HIME, etc) also provide similar functions and can be installed if you "
+"added HTTP/FTP media before package selection."
+msgstr ""
+"С помощью окна <guilabel>Другие страны</guilabel> вы можете выбрать способ "
+"ввода (с помощью нижней части списка). Способы ввода дают возможность "
+"пользователям вводить символы разных восточных языков (китайского, "
+"японского, корейского и т.п.). Типичным способом введения на DVD с Mageia и "
+"портативных образах системы для Африки/Индии и Азии есть IBus. Для локалей "
+"азиатских и африканских стран IBus будет определен типичным способом "
+"введения, следовательно пользователям не придется настраивать ничего "
+"вручную. Другие способы ввода (SCIM, GCIN, HIME т.п.), которые предоставляют "
+"пользователям подобные возможности, можно установить, если перед выбором "
+"пакетов были добавлены репозитории пакетов HTTP/FTP."
+
+#. type: Content of: <section><section><note><para>
+#: en/selectCountry.xml:53
+msgid ""
+"If you missed the input method setup during installation, you can access it "
+"after you boot your installed system via \"Configure your Computer\" -&gt; "
+"\"System\", or by running localedrake as root."
+msgstr ""
+"Если вы пропустили настройки ввода во время установки вы можете получить "
+"доступ к нему после загрузки установленной системы в меню «Настроить "
+"компьютер» -&gt; «Система» или запустите localedrake от имени пользователя "
+"root."
